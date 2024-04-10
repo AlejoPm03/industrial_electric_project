@@ -43,19 +43,19 @@ class Environment:
 	@property
 	def perimeter(self):
 		return 2 * (self.width + self.height)
-	
+
 	@property
 	def tug_power(self):
 		return self.minimum_tug_power()
-	
+
 	@property
 	def tug_number(self):
 		return self.minimum_tug_number()
-	
+
 	@property
 	def tue_number(self):
 		return self.minimum_tue_number()
-	
+
 	@property
 	def tue_power(self):
 		return sum([device.power for device in self.specific_devices])
@@ -129,31 +129,30 @@ class Environment:
 				return 600 * tug_number
 			else:
 				return 1800 + ((tug_number - 3) * 100)
-		elif self.type == EnvironmentType.SHOPS_AND_COMMERCIAL_ESTABLISHMENTS:
+		elif self.type in [EnvironmentType.SHOPS_AND_COMMERCIAL_ESTABLISHMENTS, EnvironmentType.OFFICES_AND_CLASSROOMS]:
 			return 200 * self.minimum_tug_number()
 		else:
 			return 100 * self.minimum_tug_number()
 
 	def minimum_tue_number(self):
 		return len(self.specific_devices)
-	
-		
-	
+
+
+
 	def __str__(self) -> str:
 		description = f"""
-Enviroment: 
+Enviroment:
 	Name: {self.name} - Area: {round(self.area, 2)}m² - Perimeter: {round(self.perimeter, 2)}m
-	Light: 
+	Light:
 		Light: {self.light}
 		Recommended Power: {round(self.recommended_power(), 2)}W
 		Minimum Light Power: {round(self.minimum_light_power(), 2)}W
 		Light Power: {round(self.light_power(), 2)}W
 		Minimum Light Points: {round(self.minimum_light_points(), 2)}
-	Tug: 
+	Tug:
 		Minimum Tug Number: {round(self.minimum_tug_number(), 2)}
 		Minimum Tug Power: {round(self.minimum_tug_power(), 2)}W
-	Tue: 
+	Tue:
 		Minimum Tue Number: {round(self.minimum_tue_number(), 2)}
 """
 		return description.strip()
-	
