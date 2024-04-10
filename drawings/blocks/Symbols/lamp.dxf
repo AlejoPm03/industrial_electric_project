@@ -23,7 +23,11 @@ $INSBASE
   9
 $EXTMIN
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.1263922962350294
+=======
+-0.1263886992532344
+>>>>>>> Stashed changes:drawings/#draw.dxf
  20
 -672.3730531735227
  30
@@ -1115,9 +1119,15 @@ AcDbViewportTableRecord
  21
 1
  12
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.4878513144182244
  22
 0.2146545783440187
+=======
+8.98231736630496
+ 22
+3.575485553577703
+>>>>>>> Stashed changes:drawings/#draw.dxf
  13
 0
  23
@@ -1143,9 +1153,15 @@ AcDbViewportTableRecord
  37
 0
  40
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.4215035356573459
  41
 1.814814814814815
+=======
+18.48787652093836
+ 41
+1.841981132075472
+>>>>>>> Stashed changes:drawings/#draw.dxf
  42
 50
  43
@@ -2323,11 +2339,20 @@ AcDbLayerTableRecord
   2
 names
  70
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
     1
+=======
+    4
+>>>>>>> Stashed changes:drawings/#draw.dxf
  62
     7
   6
 CONTINUOUS
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
+=======
+290
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
 370
     0
 390
@@ -3907,7 +3932,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 lamp-0
+=======
+tomada dupla baixa na parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -3925,7 +3954,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada baixa na parede-0
+=======
+tomada tripla baixa na parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -3943,7 +3976,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada media na parede-0
+=======
+tomada baixa e alta de parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -3961,7 +3998,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada alta na parede-0
+=======
+tomada dupla media na parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -3979,7 +4020,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 interruptor simples-0
+=======
+tomada dupla media na parede com interruptor
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -3997,7 +4042,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 interruptor duplo-0
+=======
+tomada media na parede com interruptor
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -4015,7 +4064,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 interruptor paralelo-0
+=======
+tomada tripla media na parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -4033,7 +4086,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada dupla baixa na parede
+=======
+tomada no piso
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -4051,7 +4108,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada baixa na parede-2
+=======
+quadro embutido
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -4069,7 +4130,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada tripla baixa na parede
+=======
+quadro terminal embutido
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
 280
@@ -43891,7 +43956,11 @@ AcDbMText
   1
 XXXVA
   7
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 
+=======
+STANDARD
+>>>>>>> Stashed changes:drawings/#draw.dxf
 210
 0
 220
@@ -43937,7 +44006,11 @@ AcDbMText
   1
 X
   7
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 
+=======
+STANDARD
+>>>>>>> Stashed changes:drawings/#draw.dxf
 210
 0
 220
@@ -43983,7 +44056,11 @@ AcDbMText
   1
 X
   7
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 
+=======
+STANDARD
+>>>>>>> Stashed changes:drawings/#draw.dxf
 210
 0
 220
@@ -44073,6 +44150,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.2000000000000011
  20
 0
@@ -44080,6 +44158,15 @@ AcDbLine
 -0.100000000000001
  21
 0
+=======
+-1.110223024625157e-16
+ 20
+-3.122502256758253e-17
+ 11
+0.07499999999999996
+ 21
+-3.122502256758253e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44097,6 +44184,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.100000000000001
  20
 0
@@ -44104,6 +44192,15 @@ AcDbLine
 -8.881784197001252e-16
  21
 0
+=======
+0.07499999999999996
+ 20
+-3.122502256758253e-17
+ 11
+0.15
+ 21
+-3.122502256758253e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44121,6 +44218,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -8.881784197001252e-16
  20
 0
@@ -44128,6 +44226,15 @@ AcDbLine
 -8.881784197001252e-16
  21
 -0.2
+=======
+0.15
+ 20
+-3.122502256758253e-17
+ 11
+0.15
+ 21
+-0.15
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44145,6 +44252,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -8.881784197001252e-16
  20
 -0.2
@@ -44152,6 +44260,15 @@ AcDbLine
 0.2999999999999989
  21
 0
+=======
+0.15
+ 20
+-0.15
+ 11
+0.3749999999999999
+ 21
+-3.122502256758253e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44169,6 +44286,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.2999999999999989
  20
 0
@@ -44176,6 +44294,15 @@ AcDbLine
 -8.881784197001252e-16
  21
 0.2000000000000002
+=======
+0.3749999999999999
+ 20
+-3.122502256758253e-17
+ 11
+0.15
+ 21
+0.1500000000000001
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44193,6 +44320,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -8.881784197001252e-16
  20
 0.2000000000000002
@@ -44200,6 +44328,15 @@ AcDbLine
 -8.881784197001252e-16
  21
 0
+=======
+0.15
+ 20
+0.1500000000000001
+ 11
+0.15
+ 21
+-3.122502256758253e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -44243,7 +44380,11 @@ HATCH
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44279,6 +44420,7 @@ SOLID
  72
     1
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.2999999999999989
  20
 2.220446049250313e-16
@@ -44306,6 +44448,35 @@ SOLID
 0.2999999999999994
  21
 2.220446049250313e-16
+=======
+0.3749999999999999
+ 20
+-2.645453300864631e-17
+ 11
+0.1500000000000001
+ 21
+0.1500000000000001
+ 72
+    1
+ 10
+0.1500000000000001
+ 20
+0.1500000000000001
+ 11
+0.1500000000000001
+ 21
+-2.645453300864631e-17
+ 72
+    1
+ 10
+0.1500000000000001
+ 20
+-2.645453300864631e-17
+ 11
+0.3750000000000003
+ 21
+-2.645453300864631e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
  97
     0
  75
@@ -44321,7 +44492,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44331,6 +44506,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.2000000000000011
  20
 2.220446049250313e-16
@@ -44338,6 +44514,15 @@ AcDbLine
 -0.100000000000001
  21
 2.220446049250313e-16
+=======
+-3.469446951953614e-17
+ 20
+-2.645453300864631e-17
+ 11
+0.07500000000000004
+ 21
+-2.645453300864631e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44345,7 +44530,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44355,6 +44544,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.100000000000001
  20
 2.220446049250313e-16
@@ -44362,6 +44552,15 @@ AcDbLine
 -8.881784197001252e-16
  21
 2.220446049250313e-16
+=======
+0.07500000000000004
+ 20
+-2.645453300864631e-17
+ 11
+0.1500000000000001
+ 21
+-2.645453300864631e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44369,7 +44568,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44379,6 +44582,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -8.881784197001252e-16
  20
 2.220446049250313e-16
@@ -44386,6 +44590,15 @@ AcDbLine
 -8.881784197001252e-16
  21
 -0.1999999999999997
+=======
+0.1500000000000001
+ 20
+-2.645453300864631e-17
+ 11
+0.1500000000000001
+ 21
+-0.15
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44393,7 +44606,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44403,6 +44620,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -8.881784197001252e-16
  20
 -0.1999999999999997
@@ -44410,6 +44628,15 @@ AcDbLine
 0.2999999999999989
  21
 2.220446049250313e-16
+=======
+0.1500000000000001
+ 20
+-0.15
+ 11
+0.3749999999999999
+ 21
+-2.645453300864631e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44417,7 +44644,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44427,6 +44658,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.2999999999999989
  20
 2.220446049250313e-16
@@ -44434,6 +44666,15 @@ AcDbLine
 -8.881784197001252e-16
  21
 0.2000000000000004
+=======
+0.3749999999999999
+ 20
+-2.645453300864631e-17
+ 11
+0.1500000000000001
+ 21
+0.1500000000000001
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44441,7 +44682,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44451,6 +44696,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -8.881784197001252e-16
  20
 0.2000000000000004
@@ -44458,6 +44704,15 @@ AcDbLine
 -8.881784197001252e-16
  21
 2.220446049250313e-16
+=======
+0.1500000000000001
+ 20
+0.1500000000000001
+ 11
+0.1500000000000001
+ 21
+-2.645453300864631e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44465,7 +44720,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44475,6 +44734,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -8.881784197001252e-16
  20
 2.220446049250313e-16
@@ -44482,6 +44742,15 @@ AcDbLine
 0.2999999999999994
  21
 2.220446049250313e-16
+=======
+0.1500000000000001
+ 20
+-2.645453300864631e-17
+ 11
+0.3750000000000003
+ 21
+-2.645453300864631e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -44561,6 +44830,7 @@ SOLID
  72
     1
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.0001685327341687248
  20
 -0.002690218171185976
@@ -44588,6 +44858,35 @@ SOLID
 -0.0001685327341687248
  21
 -0.002690218171185976
+=======
+0.1500000000000001
+ 20
+1.387778780781446e-17
+ 11
+0.1500000000000001
+ 21
+-0.1499999999999999
+ 72
+    1
+ 10
+0.1500000000000001
+ 20
+-0.1499999999999999
+ 11
+0.375
+ 21
+1.387778780781446e-17
+ 72
+    1
+ 10
+0.3750000000000002
+ 20
+1.387778780781446e-17
+ 11
+0.1500000000000001
+ 21
+1.387778780781446e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
  97
     0
  75
@@ -44639,6 +44938,7 @@ SOLID
  72
     1
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.2998314672658311
  20
 -0.002690218171185976
@@ -44666,6 +44966,35 @@ SOLID
 0.2998314672658315
  21
 -0.002690218171185976
+=======
+0.375
+ 20
+1.387778780781446e-17
+ 11
+0.1500000000000001
+ 21
+0.1500000000000002
+ 72
+    1
+ 10
+0.1500000000000001
+ 20
+0.1500000000000002
+ 11
+0.1500000000000001
+ 21
+1.387778780781446e-17
+ 72
+    1
+ 10
+0.1500000000000001
+ 20
+1.387778780781446e-17
+ 11
+0.3750000000000002
+ 21
+1.387778780781446e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
  97
     0
  75
@@ -44691,6 +45020,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.2001685327341689
  20
 -0.002690218171185976
@@ -44698,6 +45028,15 @@ AcDbLine
 -0.1001685327341688
  21
 -0.002690218171185976
+=======
+-4.85722573273506e-17
+ 20
+1.387778780781446e-17
+ 11
+0.07500000000000002
+ 21
+1.387778780781446e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44715,6 +45054,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.1001685327341688
  20
 -0.002690218171185976
@@ -44722,6 +45062,15 @@ AcDbLine
 -0.0001685327341687248
  21
 -0.002690218171185976
+=======
+0.07500000000000002
+ 20
+1.387778780781446e-17
+ 11
+0.1500000000000001
+ 21
+1.387778780781446e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44739,6 +45088,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.0001685327341687248
  20
 -0.002690218171185976
@@ -44746,6 +45096,15 @@ AcDbLine
 -0.0001685327341687248
  21
 -0.2026902181711859
+=======
+0.1500000000000001
+ 20
+1.387778780781446e-17
+ 11
+0.1500000000000001
+ 21
+-0.1499999999999999
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44763,6 +45122,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.0001685327341687248
  20
 -0.2026902181711859
@@ -44770,6 +45130,15 @@ AcDbLine
 0.2998314672658311
  21
 -0.002690218171185976
+=======
+0.1500000000000001
+ 20
+-0.1499999999999999
+ 11
+0.375
+ 21
+1.387778780781446e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44787,6 +45156,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.2998314672658311
  20
 -0.002690218171185976
@@ -44794,6 +45164,15 @@ AcDbLine
 -0.0001685327341687248
  21
 0.1973097818288142
+=======
+0.375
+ 20
+1.387778780781446e-17
+ 11
+0.1500000000000001
+ 21
+0.1500000000000002
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44811,6 +45190,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.0001685327341687248
  20
 0.1973097818288142
@@ -44818,6 +45198,15 @@ AcDbLine
 -0.0001685327341687248
  21
 -0.002690218171185976
+=======
+0.1500000000000001
+ 20
+0.1500000000000002
+ 11
+0.1500000000000001
+ 21
+1.387778780781446e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -44835,6 +45224,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.0001685327341687248
  20
 -0.002690218171185976
@@ -44842,6 +45232,15 @@ AcDbLine
 0.2998314672658315
  21
 -0.002690218171185976
+=======
+0.1500000000000001
+ 20
+1.387778780781446e-17
+ 11
+0.3750000000000002
+ 21
+1.387778780781446e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -44879,12 +45278,17 @@ interruptor simples
   1
 
   0
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 LINE
+=======
+CIRCLE
+>>>>>>> Stashed changes:drawings/#draw.dxf
   5
 6D8
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
   6
 ByLayer
@@ -44910,6 +45314,9 @@ CIRCLE
 AcDbEntity
   8
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44919,11 +45326,43 @@ ByLayer
 100
 AcDbCircle
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.1499999999999995
  20
 1.387778780781446e-16
  40
 0.1499999999999999
+=======
+0.2624999999999995
+ 20
+1.38778e-16
+ 40
+0.1125
+  0
+LINE
+  5
+6D9
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-4.440892098500626e-16
+ 20
+1.38778e-16
+ 11
+0.1499999999999992
+ 21
+1.38778e-16
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -44967,7 +45406,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -44977,6 +45420,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.2000000000000006
  20
 1.110223024625157e-16
@@ -44984,6 +45428,15 @@ AcDbLine
 -4.440892098500626e-16
  21
 1.110223024625157e-16
+=======
+7.771561172376096e-16
+ 20
+-1.733736325865005e-16
+ 11
+0.1500000000000004
+ 21
+-1.733736325865005e-16
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 CIRCLE
   5
@@ -44991,7 +45444,11 @@ CIRCLE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45001,11 +45458,19 @@ ByLayer
 100
 AcDbCircle
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.1499999999999995
  20
 1.110223024625157e-16
  40
 0.1499999999999999
+=======
+0.2625000000000007
+ 20
+-1.733736325865005e-16
+ 40
+0.1125
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -45013,7 +45478,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45023,6 +45492,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -4.440892098500626e-16
  20
 2.220446049250313e-16
@@ -45030,6 +45500,15 @@ AcDbLine
 0.2999999999999994
  21
 2.220446049250313e-16
+=======
+0.1500000000000004
+ 20
+-9.010638258650048e-17
+ 11
+0.3750000000000008
+ 21
+-9.010638258650048e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -45073,7 +45552,11 @@ HATCH
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45109,11 +45592,19 @@ SOLID
  72
     2
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.1499999999999995
  20
 1.110223024625157e-16
  40
 0.1499999999999999
+=======
+0.2624999999999998
+ 20
+5.551115123125783e-17
+ 40
+0.1124999999999999
+>>>>>>> Stashed changes:drawings/#draw.dxf
  50
 0
  51
@@ -45135,7 +45626,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45145,6 +45640,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.2000000000000006
  20
 1.110223024625157e-16
@@ -45152,6 +45648,15 @@ AcDbLine
 -4.440892098500626e-16
  21
 1.110223024625157e-16
+=======
+-1.942890293094024e-16
+ 20
+5.551115123125783e-17
+ 11
+0.1499999999999999
+ 21
+5.551115123125783e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 CIRCLE
   5
@@ -45159,7 +45664,11 @@ CIRCLE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45169,11 +45678,19 @@ ByLayer
 100
 AcDbCircle
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.1499999999999995
  20
 1.110223024625157e-16
  40
 0.1499999999999999
+=======
+0.2624999999999998
+ 20
+5.551115123125783e-17
+ 40
+0.1124999999999999
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -45199,7 +45716,11 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 lamp-0
+=======
+tomada dupla baixa na parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
  10
@@ -45207,17 +45728,29 @@ lamp-0
  20
 0
   3
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 lamp-0
   1
 
   0
 CIRCLE
+=======
+tomada dupla baixa na parede
+  1
+
+  0
+LINE
+>>>>>>> Stashed changes:drawings/#draw.dxf
   5
 6E0
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45225,6 +45758,7 @@ ByLayer
 370
    -1
 100
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 AcDbCircle
  10
 0.02105165511250284
@@ -45232,6 +45766,17 @@ AcDbCircle
 -0.1009431141726829
  40
 0.2
+=======
+AcDbLine
+ 10
+0.375
+ 20
+0.1499999999999999
+ 11
+0.375
+ 21
+-1.43982048506075e-16
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -45239,7 +45784,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45249,6 +45798,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.1789483448874973
  20
 -0.1009431141726829
@@ -45256,6 +45806,15 @@ AcDbLine
 0.2210516551125026
  21
 -0.1009431141726829
+=======
+0.375
+ 20
+-1.43982048506075e-16
+ 11
+0.375
+ 21
+-0.1500003750000001
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -45263,7 +45822,11 @@ LINE
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45273,6 +45836,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.02105165511250284
  20
 -0.3009431141726828
@@ -45282,12 +45846,27 @@ AcDbLine
 -0.1009431141726829
   0
 MTEXT
+=======
+0.375
+ 20
+-0.1500003750000001
+ 11
+0.6000002250000001
+ 21
+-1.43982048506075e-16
+  0
+LINE
+>>>>>>> Stashed changes:drawings/#draw.dxf
   5
 6E3
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45295,6 +45874,7 @@ ByLayer
 370
    -1
 100
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 AcDbMText
  10
 -0.06127658985200801
@@ -45328,12 +45908,29 @@ STANDARD
 1
   0
 MTEXT
+=======
+AcDbLine
+ 10
+0.6000002250000001
+ 20
+-1.43982048506075e-16
+ 11
+0.375
+ 21
+0.1499999999999999
+  0
+LINE
+>>>>>>> Stashed changes:drawings/#draw.dxf
   5
 6E4
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45341,6 +45938,7 @@ ByLayer
 370
    -1
 100
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 AcDbMText
  10
 0.1027731989501626
@@ -45374,12 +45972,29 @@ STANDARD
 1
   0
 MTEXT
+=======
+AcDbLine
+ 10
+0.150000225
+ 20
+-0.1500003750000001
+ 11
+0.375
+ 21
+-1.43982048506075e-16
+  0
+LINE
+>>>>>>> Stashed changes:drawings/#draw.dxf
   5
 6E5
 100
 AcDbEntity
   8
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 plant
+=======
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45387,6 +46002,7 @@ ByLayer
 370
    -1
 100
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 AcDbMText
  10
 0.03079692810217738
@@ -45418,6 +46034,113 @@ STANDARD
     2
  44
 1
+=======
+AcDbLine
+ 10
+0.375
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+0.1499999999999999
+  0
+LINE
+  5
+6E6
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.150000225
+ 20
+0.1499999999999999
+ 11
+0.150000225
+ 21
+-1.43982048506075e-16
+  0
+LINE
+  5
+6E7
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.150000225
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+-0.1500003750000001
+  0
+LINE
+  5
+6E8
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2.250000000086384e-07
+ 20
+-1.43982048506075e-16
+ 11
+0.075000225
+ 21
+-1.43982048506075e-16
+  0
+LINE
+  5
+6E9
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.075000225
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+-1.43982048506075e-16
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -45443,7 +46166,11 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada baixa na parede-0
+=======
+tomada tripla baixa na parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
  10
@@ -45451,12 +46178,17 @@ tomada baixa na parede-0
  20
 0
   3
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada baixa na parede-0
+=======
+tomada tripla baixa na parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
   1
 
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 6E6
 100
 AcDbEntity
@@ -45553,6 +46285,8 @@ AcDbLine
   0
 LINE
   5
+=======
+>>>>>>> Stashed changes:drawings/#draw.dxf
 6EA
 100
 AcDbEntity
@@ -45567,6 +46301,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.3007353102948747
  20
 -0.8570443587250587
@@ -45574,6 +46309,15 @@ AcDbLine
 0.0007353102948748358
  21
 -0.6570443587250585
+=======
+0
+ 20
+-2.775557561562891e-17
+ 11
+0.07500000000000002
+ 21
+-2.775557561562891e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 LINE
   5
@@ -45591,6 +46335,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.0007353102948748358
  20
 -0.6570443587250585
@@ -45598,6 +46343,303 @@ AcDbLine
 0.0007353102948748358
  21
 -0.8570443587250587
+=======
+0.07500000000000002
+ 20
+-2.775557561562891e-17
+ 11
+0.1500000000000001
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+6EC
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1500000000000001
+ 20
+-2.775557561562891e-17
+ 11
+0.1500000000000001
+ 21
+-0.1500000000000003
+  0
+LINE
+  5
+6ED
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1500000000000001
+ 20
+-0.1500000000000003
+ 11
+0.375
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+6EE
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.375
+ 20
+-2.775557561562891e-17
+ 11
+0.1500000000000001
+ 21
+0.1500000000000001
+  0
+LINE
+  5
+6EF
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1500000000000001
+ 20
+0.1500000000000001
+ 11
+0.1500000000000001
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+6F0
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.375
+ 20
+-2.775557561562891e-17
+ 11
+0.375
+ 21
+-0.1500000000000003
+  0
+LINE
+  5
+6F1
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.375
+ 20
+-0.1500000000000003
+ 11
+0.5999999999999999
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+6F2
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.5999999999999999
+ 20
+-2.775557561562891e-17
+ 11
+0.375
+ 21
+0.1500000000000001
+  0
+LINE
+  5
+6F3
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.375
+ 20
+0.1500000000000001
+ 11
+0.375
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+6F4
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.5999999999999999
+ 20
+-2.775557561562891e-17
+ 11
+0.5999999999999999
+ 21
+-0.1500000000000003
+  0
+LINE
+  5
+6F5
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.5999999999999999
+ 20
+-0.1500000000000003
+ 11
+0.825
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+6F6
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.825
+ 20
+-2.775557561562891e-17
+ 11
+0.5999999999999999
+ 21
+0.1500000000000001
+  0
+LINE
+  5
+6F7
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.5999999999999999
+ 20
+0.1500000000000001
+ 11
+0.5999999999999999
+ 21
+-2.775557561562891e-17
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -45623,7 +46665,11 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada media na parede-0
+=======
+tomada baixa e alta de parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
  10
@@ -45631,17 +46677,29 @@ tomada media na parede-0
  20
 0
   3
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada media na parede-0
+=======
+tomada baixa e alta de parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
   1
 
   0
 HATCH
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 6EC
 100
 AcDbEntity
   8
 plant
+=======
+6F8
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45673,6 +46731,7 @@ SOLID
  92
     0
  93
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
     3
  72
     1
@@ -45704,6 +46763,49 @@ SOLID
 0.3007353102948751
  21
 -1.457044358725059
+=======
+    4
+ 72
+    1
+ 10
+0.374999775
+ 20
+0.1499999999999998
+ 11
+0.374999775
+ 21
+-1.535230276239474e-16
+ 72
+    1
+ 10
+0.374999775
+ 20
+-1.535230276239474e-16
+ 11
+0.374999775
+ 21
+-0.1500003750000002
+ 72
+    1
+ 10
+0.374999775
+ 20
+-0.1500003750000002
+ 11
+0.6000000000000001
+ 21
+-1.535230276239474e-16
+ 72
+    1
+ 10
+0.6000000000000001
+ 20
+-1.535230276239474e-16
+ 11
+0.374999775
+ 21
+0.1499999999999998
+>>>>>>> Stashed changes:drawings/#draw.dxf
  97
     0
  75
@@ -45715,11 +46817,19 @@ SOLID
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 6ED
 100
 AcDbEntity
   8
 plant
+=======
+6F9
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45729,6 +46839,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.1992646897051253
  20
 -1.457044358725059
@@ -45744,6 +46855,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.374999775
+ 20
+0.1499999999999998
+ 11
+0.374999775
+ 21
+-1.535230276239474e-16
+  0
+LINE
+  5
+6FA
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45753,6 +46881,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.09926468970512525
  20
 -1.457044358725059
@@ -45768,6 +46897,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.374999775
+ 20
+-1.535230276239474e-16
+ 11
+0.374999775
+ 21
+-0.1500003750000002
+  0
+LINE
+  5
+6FB
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45777,6 +46923,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.0007353102948748358
  20
 -1.457044358725059
@@ -45792,6 +46939,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.374999775
+ 20
+-0.1500003750000002
+ 11
+0.6000000000000001
+ 21
+-1.535230276239474e-16
+  0
+LINE
+  5
+6FC
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45801,6 +46965,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.0007353102948748358
  20
 -1.657044358725059
@@ -45816,6 +46981,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.6000000000000001
+ 20
+-1.535230276239474e-16
+ 11
+0.374999775
+ 21
+0.1499999999999998
+  0
+LINE
+  5
+6FD
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45825,6 +47007,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.3007353102948747
  20
 -1.457044358725059
@@ -45840,6 +47023,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.15
+ 20
+-0.1500003750000002
+ 11
+0.374999775
+ 21
+-1.535230276239474e-16
+  0
+LINE
+  5
+6FE
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45849,6 +47049,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.0007353102948748358
  20
 -1.257044358725058
@@ -45864,6 +47065,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.374999775
+ 20
+-1.535230276239474e-16
+ 11
+0.15
+ 21
+0.1499999999999998
+  0
+LINE
+  5
+6FF
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45873,6 +47091,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.0007353102948748358
  20
 -1.457044358725059
@@ -45880,6 +47099,87 @@ AcDbLine
 0.3007353102948751
  21
 -1.457044358725059
+=======
+0.15
+ 20
+0.1499999999999998
+ 11
+0.15
+ 21
+-1.535230276239474e-16
+  0
+LINE
+  5
+700
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.15
+ 20
+-1.535230276239474e-16
+ 11
+0.15
+ 21
+-0.1500003750000002
+  0
+LINE
+  5
+701
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.673617379884035e-19
+ 20
+-1.535230276239474e-16
+ 11
+0.075
+ 21
+-1.535230276239474e-16
+  0
+LINE
+  5
+702
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.075
+ 20
+-1.535230276239474e-16
+ 11
+0.15
+ 21
+-1.535230276239474e-16
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -45905,7 +47205,11 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada alta na parede-0
+=======
+tomada dupla media na parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
  10
@@ -45913,17 +47217,29 @@ tomada alta na parede-0
  20
 0
   3
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada alta na parede-0
+=======
+tomada dupla media na parede
+>>>>>>> Stashed changes:drawings/#draw.dxf
   1
 
   0
 HATCH
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 6F4
 100
 AcDbEntity
   8
 plant
+=======
+703
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -45955,6 +47271,7 @@ SOLID
  92
     0
  93
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
     3
  72
     1
@@ -45986,6 +47303,59 @@ SOLID
 0.3114046381898028
  21
 -2.098958096436778
+=======
+    5
+ 72
+    1
+ 10
+2.250000000086384e-07
+ 20
+-1.43982048506075e-16
+ 11
+0.075000225
+ 21
+-1.43982048506075e-16
+ 72
+    1
+ 10
+0.075000225
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+-1.43982048506075e-16
+ 72
+    1
+ 10
+0.150000225
+ 20
+-1.43982048506075e-16
+ 11
+0.6000002250000001
+ 21
+-1.43982048506075e-16
+ 72
+    1
+ 10
+0.6000002250000001
+ 20
+-1.43982048506075e-16
+ 11
+0.375
+ 21
+0.1499999999999999
+ 72
+    1
+ 10
+0.375
+ 20
+0.1499999999999999
+ 11
+0.375
+ 21
+-1.43982048506075e-16
+>>>>>>> Stashed changes:drawings/#draw.dxf
  97
     0
  75
@@ -45997,11 +47367,19 @@ SOLID
   0
 HATCH
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 6F5
 100
 AcDbEntity
   8
 plant
+=======
+704
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46037,6 +47415,7 @@ SOLID
  72
     1
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.01140463818980253
  20
 -2.098958096436778
@@ -46064,6 +47443,35 @@ SOLID
 0.01140463818980253
  21
 -2.098958096436778
+=======
+0.375
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+0.1499999999999999
+ 72
+    1
+ 10
+0.150000225
+ 20
+0.1499999999999999
+ 11
+0.150000225
+ 21
+-1.43982048506075e-16
+ 72
+    1
+ 10
+0.150000225
+ 20
+-1.43982048506075e-16
+ 11
+0.6000002250000001
+ 21
+-1.541976808581806e-16
+>>>>>>> Stashed changes:drawings/#draw.dxf
  97
     0
  75
@@ -46075,11 +47483,19 @@ SOLID
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 6F6
 100
 AcDbEntity
   8
 plant
+=======
+705
+100
+AcDbEntity
+  8
+symbols
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46089,6 +47505,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.1885953618101976
  20
 -2.098958096436778
@@ -46104,6 +47521,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.375
+ 20
+-1.43982048506075e-16
+ 11
+0.375
+ 21
+-0.1500003750000001
+  0
+LINE
+  5
+706
+100
+AcDbEntity
+  8
+symbols
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46113,6 +47547,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.08859536181019756
  20
 -2.098958096436778
@@ -46128,6 +47563,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.375
+ 20
+-0.1500003750000001
+ 11
+0.6000002250000001
+ 21
+-1.43982048506075e-16
+  0
+LINE
+  5
+707
+100
+AcDbEntity
+  8
+symbols
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46137,6 +47589,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.01140463818980253
  20
 -2.098958096436778
@@ -46152,6 +47605,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.150000225
+ 20
+-0.1500003750000001
+ 11
+0.375
+ 21
+-1.43982048506075e-16
+  0
+LINE
+  5
+708
+100
+AcDbEntity
+  8
+symbols
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46161,6 +47631,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.01140463818980253
  20
 -2.298958096436778
@@ -46176,6 +47647,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.375
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+0.1499999999999999
+  0
+LINE
+  5
+709
+100
+AcDbEntity
+  8
+symbols
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46185,6 +47673,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.3114046381898024
  20
 -2.098958096436778
@@ -46200,6 +47689,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.150000225
+ 20
+0.1499999999999999
+ 11
+0.150000225
+ 21
+-1.43982048506075e-16
+  0
+LINE
+  5
+70A
+100
+AcDbEntity
+  8
+symbols
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46209,6 +47715,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.01140463818980253
  20
 -1.898958096436778
@@ -46224,6 +47731,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.150000225
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+-0.1500003750000001
+  0
+LWPOLYLINE
+  5
+70B
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46231,6 +47755,7 @@ ByLayer
 370
    -1
 100
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 AcDbLine
  10
 0.01140463818980253
@@ -46240,6 +47765,39 @@ AcDbLine
 0.3114046381898028
  21
 -2.098958096436778
+=======
+AcDbPolyline
+ 90
+    6
+ 70
+    0
+ 43
+0
+ 10
+2.250000000086384e-07
+ 20
+-1.43982048506075e-16
+ 10
+0.075000225
+ 20
+-1.43982048506075e-16
+ 10
+0.150000225
+ 20
+-1.43982048506075e-16
+ 10
+0.6000002250000001
+ 20
+-1.43982048506075e-16
+ 10
+0.375
+ 20
+0.1499999999999999
+ 10
+0.375
+ 20
+-1.43982048506075e-16
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -46265,7 +47823,11 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 interruptor simples-0
+=======
+tomada dupla media na parede com interruptor
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
  10
@@ -46273,6 +47835,7 @@ interruptor simples-0
  20
 0
   3
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 interruptor simples-0
   1
 
@@ -46462,16 +48025,27 @@ interruptor paralelo-0
 0
   3
 interruptor paralelo-0
+=======
+tomada dupla media na parede com interruptor
+>>>>>>> Stashed changes:drawings/#draw.dxf
   1
 
   0
 HATCH
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 702
 100
 AcDbEntity
   8
 plant
+=======
+70C
+100
+AcDbEntity
+  8
+symbols
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46503,6 +48077,7 @@ SOLID
  92
     0
  93
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
     1
  72
     2
@@ -46518,6 +48093,137 @@ SOLID
 360
  73
     1
+=======
+    3
+ 72
+    1
+ 10
+0.375
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+0.1499999999999999
+ 72
+    1
+ 10
+0.150000225
+ 20
+0.1499999999999999
+ 11
+0.150000225
+ 21
+-1.43982048506075e-16
+ 72
+    1
+ 10
+0.150000225
+ 20
+-1.43982048506075e-16
+ 11
+0.6000002250000001
+ 21
+-1.541976808581806e-16
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 98
+    0
+  0
+HATCH
+  5
+70D
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+SOLID
+ 70
+    1
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    5
+ 72
+    1
+ 10
+2.250000000086384e-07
+ 20
+-1.43982048506075e-16
+ 11
+0.075000225
+ 21
+-1.43982048506075e-16
+ 72
+    1
+ 10
+0.075000225
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+-1.43982048506075e-16
+ 72
+    1
+ 10
+0.150000225
+ 20
+-1.43982048506075e-16
+ 11
+0.6000002250000001
+ 21
+-1.43982048506075e-16
+ 72
+    1
+ 10
+0.6000002250000001
+ 20
+-1.43982048506075e-16
+ 11
+0.375
+ 21
+0.1499999999999999
+ 72
+    1
+ 10
+0.375
+ 20
+0.1499999999999999
+ 11
+0.375
+ 21
+-1.43982048506075e-16
+>>>>>>> Stashed changes:drawings/#draw.dxf
  97
     0
  75
@@ -46529,11 +48235,19 @@ SOLID
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 703
 100
 AcDbEntity
   8
 plant
+=======
+70E
+100
+AcDbEntity
+  8
+symbols
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46543,6 +48257,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.1992646897051253
  20
 -3.757044358725059
@@ -46558,6 +48273,23 @@ CIRCLE
 AcDbEntity
   8
 plant
+=======
+0.375
+ 20
+-1.43982048506075e-16
+ 11
+0.375
+ 21
+-0.1500003750000001
+  0
+LINE
+  5
+70F
+100
+AcDbEntity
+  8
+symbols
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46565,6 +48297,7 @@ ByLayer
 370
    -1
 100
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 AcDbCircle
  10
 0.1507353102948747
@@ -46573,6 +48306,1174 @@ AcDbCircle
  40
 0.1499999999999999
   0
+=======
+AcDbLine
+ 10
+0.375
+ 20
+-0.1500003750000001
+ 11
+0.6000002250000001
+ 21
+-1.43982048506075e-16
+  0
+LINE
+  5
+710
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.150000225
+ 20
+-0.1500003750000001
+ 11
+0.375
+ 21
+-1.43982048506075e-16
+  0
+LINE
+  5
+711
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.375
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+0.1499999999999999
+  0
+LINE
+  5
+712
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.150000225
+ 20
+0.1499999999999999
+ 11
+0.150000225
+ 21
+-1.43982048506075e-16
+  0
+LINE
+  5
+713
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.150000225
+ 20
+-1.43982048506075e-16
+ 11
+0.150000225
+ 21
+-0.1500003750000001
+  0
+INSERT
+  5
+714
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+0.45
+ 20
+1.040834085586084e-17
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+LWPOLYLINE
+  5
+715
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    0
+ 43
+0
+ 10
+2.250000000082047e-07
+ 20
+-8.673617379884035e-18
+ 10
+0.075000225
+ 20
+-8.673617379884035e-18
+ 10
+0.150000225
+ 20
+-8.673617379884035e-18
+ 10
+0.6000002250000001
+ 20
+-8.673617379884035e-18
+ 10
+0.375
+ 20
+0.15
+ 10
+0.375
+ 20
+-8.673617379884035e-18
+  0
+ENDBLK
+  5
+12A
+330
+128
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+12C
+330
+12B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+tomada media na parede com interruptor
+ 70
+    0
+ 10
+0
+ 20
+0
+  3
+tomada media na parede com interruptor
+  1
+
+  0
+HATCH
+  5
+716
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+SOLID
+ 70
+    1
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    3
+ 72
+    1
+ 10
+-0.3749999999999999
+ 20
+7.237878797667204e-17
+ 11
+-0.1500000000000002
+ 21
+-0.1500000000000001
+ 72
+    1
+ 10
+-0.1500000000000002
+ 20
+-0.1500000000000001
+ 11
+-0.1500000000000001
+ 21
+4.482423499585662e-17
+ 72
+    1
+ 10
+-0.1500000000000001
+ 20
+4.482423499585662e-17
+ 11
+-0.3750000000000003
+ 21
+7.237878797667209e-17
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 98
+    0
+  0
+LINE
+  5
+717
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.469446951953615e-17
+ 20
+2.645453300864631e-17
+ 11
+-0.07500000000000004
+ 21
+3.563938400225146e-17
+  0
+LINE
+  5
+718
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-0.07500000000000004
+ 20
+3.563938400225146e-17
+ 11
+-0.1500000000000001
+ 21
+4.482423499585662e-17
+  0
+LINE
+  5
+719
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-0.1500000000000001
+ 20
+4.482423499585662e-17
+ 11
+-0.1500000000000001
+ 21
+0.15
+  0
+LINE
+  5
+71A
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-0.1500000000000001
+ 20
+0.15
+ 11
+-0.3749999999999999
+ 21
+7.237878797667204e-17
+  0
+LINE
+  5
+71B
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-0.3749999999999999
+ 20
+7.237878797667204e-17
+ 11
+-0.1500000000000002
+ 21
+-0.1500000000000001
+  0
+LINE
+  5
+71C
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-0.1500000000000002
+ 20
+-0.1500000000000001
+ 11
+-0.1500000000000001
+ 21
+4.482423499585662e-17
+  0
+LINE
+  5
+71D
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-0.1500000000000001
+ 20
+4.482423499585662e-17
+ 11
+-0.3750000000000003
+ 21
+7.237878797667209e-17
+  0
+INSERT
+  5
+71E
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+-0.224
+ 20
+0
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+ENDBLK
+  5
+12D
+330
+12B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+12F
+330
+12E
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+tomada tripla media na parede
+ 70
+    0
+ 10
+0
+ 20
+0
+  3
+tomada tripla media na parede
+  1
+
+  0
+HATCH
+  5
+71F
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+SOLID
+ 70
+    1
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+0.15
+ 20
+0
+ 11
+0.825
+ 21
+0
+ 72
+    1
+ 10
+0.825
+ 20
+-2.775557561562891e-17
+ 11
+0.5999999999999999
+ 21
+-2.775557561562891e-17
+ 72
+    1
+ 10
+0.5999999999999999
+ 20
+-2.775557561562891e-17
+ 11
+0.5999999999999999
+ 21
+0.1500000000000001
+ 72
+    1
+ 10
+0.5999999999999999
+ 20
+0.1500000000000001
+ 11
+0.825
+ 21
+-2.775557561562891e-17
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 98
+    0
+  0
+HATCH
+  5
+720
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+SOLID
+ 70
+    1
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+0.5999999999999999
+ 20
+-2.775557561562891e-17
+ 11
+0.375
+ 21
+0.1500000000000001
+ 72
+    1
+ 10
+0.375
+ 20
+0.1500000000000001
+ 11
+0.375
+ 21
+-2.775557561562891e-17
+ 72
+    1
+ 10
+0.3750000000000001
+ 20
+-2.775557561562891e-17
+ 11
+0.5999999999999999
+ 21
+-2.775557561562891e-17
+ 72
+    1
+ 10
+0.15
+ 20
+0
+ 11
+0.825
+ 21
+0
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 98
+    0
+  0
+HATCH
+  5
+721
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+SOLID
+ 70
+    1
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    3
+ 72
+    1
+ 10
+0.375
+ 20
+-2.775557561562891e-17
+ 11
+0.1500000000000001
+ 21
+0.1500000000000001
+ 72
+    1
+ 10
+0.1500000000000001
+ 20
+0.1500000000000001
+ 11
+0.1500000000000001
+ 21
+-2.775557561562891e-17
+ 72
+    1
+ 10
+0.15
+ 20
+0
+ 11
+0.825
+ 21
+0
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 98
+    0
+  0
+LINE
+  5
+722
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0
+ 20
+-2.775557561562891e-17
+ 11
+0.07500000000000002
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+723
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.07500000000000002
+ 20
+-2.775557561562891e-17
+ 11
+0.1500000000000001
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+724
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1500000000000001
+ 20
+-2.775557561562891e-17
+ 11
+0.1500000000000001
+ 21
+-0.1500000000000003
+  0
+LINE
+  5
+725
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1500000000000001
+ 20
+-0.1500000000000003
+ 11
+0.375
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+726
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.375
+ 20
+-2.775557561562891e-17
+ 11
+0.1500000000000001
+ 21
+0.1500000000000001
+  0
+LINE
+  5
+727
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1500000000000001
+ 20
+0.1500000000000001
+ 11
+0.1500000000000001
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+728
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.375
+ 20
+-2.775557561562891e-17
+ 11
+0.375
+ 21
+-0.1500000000000003
+  0
+LINE
+  5
+729
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.375
+ 20
+-0.1500000000000003
+ 11
+0.5999999999999999
+ 21
+-2.775557561562891e-17
+  0
+LINE
+  5
+72A
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.5999999999999999
+ 20
+-2.775557561562891e-17
+ 11
+0.5999999999999999
+ 21
+-0.1500000000000003
+  0
+LINE
+  5
+72B
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.5999999999999999
+ 20
+-0.1500000000000003
+ 11
+0.825
+ 21
+-2.775557561562891e-17
+  0
+LWPOLYLINE
+  5
+72C
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    3
+ 70
+    0
+ 43
+0
+ 10
+0.5999999999999999
+ 20
+-2.775557561562891e-17
+ 10
+0.375
+ 20
+0.1500000000000001
+ 10
+0.375
+ 20
+-2.775557561562891e-17
+  0
+LWPOLYLINE
+  5
+72D
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    2
+ 70
+    0
+ 43
+0
+ 10
+0.15
+ 20
+0
+ 10
+0.825
+ 20
+0
+  0
+LINE
+  5
+72E
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.3750000000000001
+ 20
+-2.775557561562891e-17
+ 11
+0.5999999999999999
+ 21
+-2.775557561562891e-17
+  0
+LWPOLYLINE
+  5
+72F
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    3
+ 70
+    1
+ 43
+0
+ 10
+0.5999999999999999
+ 20
+0.1500000000000001
+ 10
+0.5999999999999999
+ 20
+-2.775557561562891e-17
+ 10
+0.825
+ 20
+-2.775557561562891e-17
+  0
+>>>>>>> Stashed changes:drawings/#draw.dxf
 ENDBLK
   5
 130
@@ -46597,7 +49498,11 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada dupla baixa na parede
+=======
+tomada no piso
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
  10
@@ -46605,13 +49510,117 @@ tomada dupla baixa na parede
  20
 0
   3
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada dupla baixa na parede
+=======
+tomada no piso
+>>>>>>> Stashed changes:drawings/#draw.dxf
   1
 
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 705
+=======
+730
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1.510127767007015e-17
+ 20
+0
+ 11
+0.15
+ 21
+0
+  0
+LINE
+  5
+731
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.15
+ 20
+0
+ 11
+-1.324001179662434e-18
+ 21
+0.2249999999999998
+  0
+LINE
+  5
+732
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1.324001179662434e-18
+ 20
+0.2249999999999998
+ 11
+-0.1500000000000002
+ 21
+0
+  0
+LINE
+  5
+733
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-0.1500000000000002
+ 20
+0
+ 11
+-1.510127767007015e-17
+ 21
+0
+  0
+LINE
+  5
+734
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -46625,6 +49634,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.5
  20
 0.1999999999999998
@@ -46636,6 +49646,18 @@ AcDbLine
 LINE
   5
 706
+=======
+-0.2000000000000002
+ 20
+-0.04999999999999999
+ 11
+-0.2000000000000002
+ 21
+0.25
+  0
+LINE
+  5
+735
 100
 AcDbEntity
   8
@@ -46649,6 +49671,32 @@ ByLayer
 100
 AcDbLine
  10
+-0.2000000000000002
+ 20
+0.25
+ 11
+0.1999999999999998
+ 21
+0.25
+  0
+LINE
+  5
+736
+>>>>>>> Stashed changes:drawings/#draw.dxf
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.5
  20
 -1.942890293094024e-16
@@ -46756,6 +49804,19 @@ AcDbLine
 LINE
   5
 70B
+=======
+0.1999999999999998
+ 20
+0.25
+ 11
+0.1999999999999998
+ 21
+-0.04999999999999999
+  0
+LINE
+  5
+737
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -46769,6 +49830,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.2000003
  20
 0.1999999999999998
@@ -46848,6 +49910,15 @@ AcDbLine
 0.2000003
  21
 -1.942890293094024e-16
+=======
+0.1999999999999998
+ 20
+-0.04999999999999999
+ 11
+-0.2000000000000002
+ 21
+-0.04999999999999999
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -46873,7 +49944,11 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada baixa na parede-2
+=======
+quadro embutido
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
  10
@@ -46881,6 +49956,7 @@ tomada baixa na parede-2
  20
 0
   3
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada baixa na parede-2
   1
 
@@ -46892,6 +49968,19 @@ LINE
 AcDbEntity
   8
 plant
+=======
+quadro embutido
+  1
+
+  0
+LWPOLYLINE
+  5
+738
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46899,6 +49988,7 @@ ByLayer
 370
    -1
 100
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 AcDbLine
  10
 -0.1263922962350294
@@ -46916,6 +50006,77 @@ LINE
 AcDbEntity
   8
 plant
+=======
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+0.2
+ 20
+0.4000000000000004
+ 10
+0
+ 20
+0.4000000000000004
+ 10
+0
+ 20
+-0.4000000000000004
+ 10
+0.2
+ 20
+-0.4000000000000004
+  0
+LWPOLYLINE
+  5
+739
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+0.2
+ 20
+0.5
+ 10
+0.3
+ 20
+0.5
+ 10
+0.3
+ 20
+-0.5
+ 10
+0.2
+ 20
+-0.5
+  0
+LINE
+  5
+73A
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46925,6 +50086,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.02639229623502937
  20
 0.1551875090010015
@@ -46940,6 +50102,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.2
+ 20
+-0.5
+ 11
+0.1499999999999999
+ 21
+-0.4999999999999982
+  0
+LINE
+  5
+73B
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46949,6 +50128,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.07360770376497072
  20
 0.1551875090010015
@@ -46964,6 +50144,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.1499999999999999
+ 20
+-0.5
+ 11
+0.1299999999999999
+ 21
+-0.4800000000000004
+  0
+LINE
+  5
+73C
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46973,6 +50170,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.07360770376497072
  20
 -0.04481249099899887
@@ -46988,6 +50186,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.1299999999999999
+ 20
+-0.4800000000000004
+ 11
+0.1099999999999999
+ 21
+-0.5
+  0
+LINE
+  5
+73D
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -46997,6 +50212,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.3736077037649706
  20
 0.1551875090010015
@@ -47012,6 +50228,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.1099999999999999
+ 20
+-0.5
+ 11
+0.08999999999999991
+ 21
+-0.5199999999999996
+  0
+LINE
+  5
+73E
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47021,6 +50254,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.07360770376497072
  20
 0.3551875090010017
@@ -47028,6 +50262,327 @@ AcDbLine
 0.07360770376497072
  21
 0.1551875090010015
+=======
+0.08999999999999991
+ 20
+-0.5199999999999996
+ 11
+0.0699999999999999
+ 21
+-0.5
+  0
+LINE
+  5
+73F
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.0699999999999999
+ 20
+-0.5
+ 11
+0.04999999999999991
+ 21
+-0.4800000000000004
+  0
+LINE
+  5
+740
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.04999999999999991
+ 20
+-0.4800000000000004
+ 11
+0.02999999999999992
+ 21
+-0.5
+  0
+LINE
+  5
+741
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.02999999999999992
+ 20
+-0.5
+ 11
+-9.71445146547012e-17
+ 21
+-0.5
+  0
+LINE
+  5
+742
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-9.71445146547012e-17
+ 20
+-0.5
+ 11
+0
+ 21
+-0.4000000000000004
+  0
+LINE
+  5
+743
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1999999999999998
+ 20
+0.5
+ 11
+0.1499999999999998
+ 21
+0.4999999999999982
+  0
+LINE
+  5
+744
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1499999999999998
+ 20
+0.5
+ 11
+0.1299999999999998
+ 21
+0.4800000000000004
+  0
+LINE
+  5
+745
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1299999999999998
+ 20
+0.4800000000000004
+ 11
+0.1099999999999998
+ 21
+0.5
+  0
+LINE
+  5
+746
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1099999999999998
+ 20
+0.5
+ 11
+0.0899999999999998
+ 21
+0.5199999999999996
+  0
+LINE
+  5
+747
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.0899999999999998
+ 20
+0.5199999999999996
+ 11
+0.06999999999999978
+ 21
+0.5
+  0
+LINE
+  5
+748
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.06999999999999978
+ 20
+0.5
+ 11
+0.04999999999999982
+ 21
+0.4800000000000004
+  0
+LINE
+  5
+749
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.04999999999999982
+ 20
+0.4800000000000004
+ 11
+0.0299999999999998
+ 21
+0.5
+  0
+LINE
+  5
+74A
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.0299999999999998
+ 20
+0.5
+ 11
+-1.942890293094024e-16
+ 21
+0.5
+  0
+LINE
+  5
+74B
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1.942890293094024e-16
+ 20
+0.5
+ 11
+-1.110223024625157e-16
+ 21
+0.4000000000000004
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -47053,7 +50608,11 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada tripla baixa na parede
+=======
+quadro terminal embutido
+>>>>>>> Stashed changes:drawings/#draw.dxf
  70
     0
  10
@@ -47061,6 +50620,7 @@ tomada tripla baixa na parede
  20
 0
   3
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 tomada tripla baixa na parede
   1
 
@@ -47072,6 +50632,19 @@ LINE
 AcDbEntity
   8
 plant
+=======
+quadro terminal embutido
+  1
+
+  0
+HATCH
+  5
+74C
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47079,6 +50652,7 @@ ByLayer
 370
    -1
 100
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 AcDbLine
  10
 -0.1263922962350294
@@ -47096,6 +50670,751 @@ LINE
 AcDbEntity
   8
 plant
+=======
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+grass
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+   11
+ 72
+    1
+ 10
+0.1500000000000001
+ 20
+-1
+ 11
+0.1300000000000001
+ 21
+-0.9800000000000004
+ 72
+    1
+ 10
+0.1300000000000001
+ 20
+-0.9800000000000004
+ 11
+0.1100000000000001
+ 21
+-1
+ 72
+    1
+ 10
+0.1100000000000001
+ 20
+-1
+ 11
+0.09000000000000011
+ 21
+-1.02
+ 72
+    1
+ 10
+0.09000000000000011
+ 20
+-1.02
+ 11
+0.07000000000000009
+ 21
+-1
+ 72
+    1
+ 10
+0.07000000000000009
+ 20
+-1
+ 11
+0.0500000000000001
+ 21
+-0.9800000000000004
+ 72
+    1
+ 10
+0.0500000000000001
+ 20
+-0.9800000000000004
+ 11
+0.03000000000000011
+ 21
+-1
+ 72
+    1
+ 10
+0.03000000000000011
+ 20
+-1
+ 11
+1.006139616066548e-16
+ 21
+-1
+ 72
+    1
+ 10
+1.006139616066548e-16
+ 20
+-1
+ 11
+1.97758476261356e-16
+ 21
+-0.9000000000000005
+ 72
+    1
+ 10
+1.97758476261356e-16
+ 20
+-0.9000000000000005
+ 11
+0.2000000000000002
+ 21
+-0.9000000000000004
+ 72
+    1
+ 10
+0.2000000000000002
+ 20
+-0.9000000000000004
+ 11
+0.2000000000000001
+ 21
+-1
+ 72
+    1
+ 10
+0.2000000000000001
+ 20
+-1
+ 11
+0.1500000000000001
+ 21
+-1
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.02
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+74D
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+grass
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+   11
+ 72
+    1
+ 10
+0.1500000000000001
+ 20
+-1
+ 11
+0.1300000000000001
+ 21
+-0.9800000000000004
+ 72
+    1
+ 10
+0.1300000000000001
+ 20
+-0.9800000000000004
+ 11
+0.1100000000000001
+ 21
+-1
+ 72
+    1
+ 10
+0.1100000000000001
+ 20
+-1
+ 11
+0.09000000000000011
+ 21
+-1.02
+ 72
+    1
+ 10
+0.09000000000000011
+ 20
+-1.02
+ 11
+0.07000000000000009
+ 21
+-1
+ 72
+    1
+ 10
+0.07000000000000009
+ 20
+-1
+ 11
+0.0500000000000001
+ 21
+-0.9800000000000004
+ 72
+    1
+ 10
+0.0500000000000001
+ 20
+-0.9800000000000004
+ 11
+0.03000000000000011
+ 21
+-1
+ 72
+    1
+ 10
+0.03000000000000011
+ 20
+-1
+ 11
+1.006139616066548e-16
+ 21
+-1
+ 72
+    1
+ 10
+1.006139616066548e-16
+ 20
+-1
+ 11
+1.97758476261356e-16
+ 21
+-0.9000000000000005
+ 72
+    1
+ 10
+1.97758476261356e-16
+ 20
+-0.9000000000000005
+ 11
+0.2000000000000002
+ 21
+-0.9000000000000004
+ 72
+    1
+ 10
+0.2000000000000002
+ 20
+-0.9000000000000004
+ 11
+0.2000000000000001
+ 21
+-1
+ 72
+    1
+ 10
+0.2000000000000001
+ 20
+-1
+ 11
+0.1500000000000001
+ 21
+-1
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.02
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+74E
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+kerpele
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+   11
+ 72
+    1
+ 10
+0.2000000000000001
+ 20
+-1
+ 11
+0.1500000000000001
+ 21
+-0.9999999999999982
+ 72
+    1
+ 10
+0.1500000000000001
+ 20
+-1
+ 11
+0.1300000000000001
+ 21
+-0.9800000000000004
+ 72
+    1
+ 10
+0.1300000000000001
+ 20
+-0.9800000000000004
+ 11
+0.1100000000000001
+ 21
+-1
+ 72
+    1
+ 10
+0.1100000000000001
+ 20
+-1
+ 11
+0.09000000000000011
+ 21
+-1.02
+ 72
+    1
+ 10
+0.09000000000000011
+ 20
+-1.02
+ 11
+0.07000000000000009
+ 21
+-1
+ 72
+    1
+ 10
+0.07000000000000009
+ 20
+-1
+ 11
+0.0500000000000001
+ 21
+-0.9800000000000004
+ 72
+    1
+ 10
+0.0500000000000001
+ 20
+-0.9800000000000004
+ 11
+0.03000000000000011
+ 21
+-1
+ 72
+    1
+ 10
+0.03000000000000011
+ 20
+-1
+ 11
+1.006139616066548e-16
+ 21
+-1
+ 72
+    1
+ 10
+1.006139616066548e-16
+ 20
+-1
+ 11
+1.97758476261356e-16
+ 21
+-0.9000000000000004
+ 72
+    1
+ 10
+1.97758476261356e-16
+ 20
+-0.9000000000000005
+ 11
+0.2000000000000002
+ 21
+-0.9000000000000004
+ 72
+    1
+ 10
+0.2000000000000002
+ 20
+-0.9000000000000004
+ 11
+0.2
+ 21
+-1
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+74F
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+SOLID
+ 70
+    1
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+0.2000000000000002
+ 20
+-0.09999999999999964
+ 11
+1.97758476261356e-16
+ 21
+-0.09999999999999964
+ 72
+    1
+ 10
+1.97758476261356e-16
+ 20
+-0.09999999999999964
+ 11
+1.97758476261356e-16
+ 21
+-0.9000000000000004
+ 72
+    1
+ 10
+1.97758476261356e-16
+ 20
+-0.9000000000000004
+ 11
+0.2000000000000002
+ 21
+-0.9000000000000004
+ 72
+    1
+ 10
+0.2000000000000002
+ 20
+-0.9000000000000004
+ 11
+0.2000000000000002
+ 21
+-0.09999999999999964
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 98
+    0
+  0
+HATCH
+  5
+750
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+SOLID
+ 70
+    1
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+0.2000000000000002
+ 20
+0
+ 11
+0.3000000000000003
+ 21
+0
+ 72
+    1
+ 10
+0.3000000000000003
+ 20
+0
+ 11
+0.3000000000000003
+ 21
+-1
+ 72
+    1
+ 10
+0.3000000000000003
+ 20
+-1
+ 11
+0.2000000000000002
+ 21
+-1
+ 72
+    1
+ 10
+0.2000000000000002
+ 20
+-1
+ 11
+0.2000000000000002
+ 21
+0
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 98
+    0
+  0
+LWPOLYLINE
+  5
+751
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+0.2000000000000002
+ 20
+-0.09999999999999964
+ 10
+1.97758476261356e-16
+ 20
+-0.09999999999999964
+ 10
+1.97758476261356e-16
+ 20
+-0.9000000000000004
+ 10
+0.2000000000000002
+ 20
+-0.9000000000000004
+  0
+LWPOLYLINE
+  5
+752
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+0.2000000000000002
+ 20
+0
+ 10
+0.3000000000000003
+ 20
+0
+ 10
+0.3000000000000003
+ 20
+-1
+ 10
+0.2000000000000002
+ 20
+-1
+  0
+LINE
+  5
+753
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47105,6 +51424,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 -0.02639229623502937
  20
 0.1551875090010015
@@ -47120,6 +51440,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.2
+ 20
+0
+ 11
+0.15
+ 21
+-1.77635683940025e-15
+  0
+LINE
+  5
+754
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47129,6 +51466,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.07360770376497072
  20
 0.1551875090010015
@@ -47144,6 +51482,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.15
+ 20
+0
+ 11
+0.13
+ 21
+-0.01999999999999957
+  0
+LINE
+  5
+755
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47153,6 +51508,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.07360770376497072
  20
 -0.04481249099899887
@@ -47168,6 +51524,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.13
+ 20
+-0.01999999999999957
+ 11
+0.11
+ 21
+0
+  0
+LINE
+  5
+756
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47177,6 +51550,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.3736077037649706
  20
 0.1551875090010015
@@ -47192,6 +51566,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.11
+ 20
+0
+ 11
+0.09
+ 21
+0.01999999999999957
+  0
+LINE
+  5
+757
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47201,6 +51592,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.07360770376497072
  20
 0.3551875090010017
@@ -47216,6 +51608,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.09
+ 20
+0.01999999999999957
+ 11
+0.06999999999999998
+ 21
+0
+  0
+LINE
+  5
+758
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47225,6 +51634,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.3736077037649706
  20
 0.1551875090010015
@@ -47240,6 +51650,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.06999999999999998
+ 20
+0
+ 11
+0.05000000000000002
+ 21
+-0.01999999999999957
+  0
+LINE
+  5
+759
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47249,6 +51676,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.3736077037649706
  20
 -0.04481249099899887
@@ -47264,6 +51692,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.05000000000000002
+ 20
+-0.01999999999999957
+ 11
+0.03
+ 21
+0
+  0
+LINE
+  5
+75A
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47273,6 +51718,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.6736077037649705
  20
 0.1551875090010015
@@ -47288,6 +51734,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+0.03
+ 20
+0
+ 11
+3.469446951953614e-18
+ 21
+0
+  0
+LINE
+  5
+75B
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47297,6 +51760,7 @@ ByLayer
 100
 AcDbLine
  10
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 0.3736077037649706
  20
 0.3551875090010017
@@ -47312,6 +51776,23 @@ LINE
 AcDbEntity
   8
 plant
+=======
+3.469446951953614e-18
+ 20
+0
+ 11
+8.673617379884035e-17
+ 21
+-0.09999999999999964
+  0
+LWPOLYLINE
+  5
+75C
+100
+AcDbEntity
+  8
+0
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -47319,6 +51800,7 @@ ByLayer
 370
    -1
 100
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 AcDbLine
  10
 0.6736077037649705
@@ -47400,6 +51882,59 @@ AcDbLine
 0.6736077037649705
  21
 0.1551875090010015
+=======
+AcDbPolyline
+ 90
+   11
+ 70
+    1
+ 43
+0
+ 10
+0.1500000000000001
+ 20
+-1
+ 10
+0.1300000000000001
+ 20
+-0.9800000000000004
+ 10
+0.1100000000000001
+ 20
+-1
+ 10
+0.09000000000000011
+ 20
+-1.02
+ 10
+0.07000000000000009
+ 20
+-1
+ 10
+0.0500000000000001
+ 20
+-0.9800000000000004
+ 10
+0.03000000000000011
+ 20
+-1
+ 10
+1.006139616066548e-16
+ 20
+-1
+ 10
+1.97758476261356e-16
+ 20
+-0.9000000000000005
+ 10
+0.2000000000000002
+ 20
+-0.9000000000000004
+ 10
+0.2000000000000001
+ 20
+-1
+>>>>>>> Stashed changes:drawings/#draw.dxf
   0
 ENDBLK
   5
@@ -47421,7 +51956,11 @@ ENTITIES
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 723
+=======
+75D
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47445,7 +51984,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 724
+=======
+75E
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47469,7 +52012,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 725
+=======
+75F
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47493,7 +52040,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 726
+=======
+760
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47517,7 +52068,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 727
+=======
+761
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47541,7 +52096,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 728
+=======
+762
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47565,7 +52124,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 729
+=======
+763
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47589,7 +52152,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 72A
+=======
+764
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47613,7 +52180,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 72B
+=======
+765
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47637,7 +52208,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 72C
+=======
+766
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47661,7 +52236,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 72D
+=======
+767
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47685,7 +52264,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 72E
+=======
+768
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47709,7 +52292,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 72F
+=======
+769
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47733,7 +52320,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 730
+=======
+76A
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47757,7 +52348,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 731
+=======
+76B
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47781,7 +52376,11 @@ AcDbLine
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 732
+=======
+76C
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47821,7 +52420,11 @@ d3
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 733
+=======
+76D
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47861,7 +52464,11 @@ d3-0
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 734
+=======
+76E
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47901,7 +52508,11 @@ d3-1
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 735
+=======
+76F
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47941,7 +52552,11 @@ d3-2
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 736
+=======
+770
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -47981,7 +52596,11 @@ d3-3
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 737
+=======
+771
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48021,7 +52640,11 @@ d3-4
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 738
+=======
+772
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48061,7 +52684,11 @@ d3-5
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 739
+=======
+773
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48101,7 +52728,11 @@ d3-6
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 73A
+=======
+774
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48141,7 +52772,11 @@ d3-7
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 73B
+=======
+775
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48181,7 +52816,11 @@ d3-8
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 73C
+=======
+776
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48221,7 +52860,11 @@ d3-9
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 73D
+=======
+777
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48261,7 +52904,11 @@ d3-10
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 73E
+=======
+778
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48301,7 +52948,11 @@ d3-11
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 73F
+=======
+779
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48341,7 +52992,11 @@ d3-12
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 740
+=======
+77A
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48381,7 +53036,11 @@ d3-13
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 741
+=======
+77B
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48421,7 +53080,11 @@ d3-14
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 742
+=======
+77C
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48461,7 +53124,11 @@ d3-15
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 743
+=======
+77D
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48501,7 +53168,11 @@ d3-16
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 744
+=======
+77E
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48541,7 +53212,11 @@ d3-17
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 745
+=======
+77F
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48581,7 +53256,11 @@ d3-18
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 746
+=======
+780
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48621,7 +53300,11 @@ d3-19
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 747
+=======
+781
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48661,7 +53344,11 @@ d3-20
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 748
+=======
+782
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48701,7 +53388,11 @@ d3-21
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 749
+=======
+783
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48741,7 +53432,11 @@ d3-22
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 74A
+=======
+784
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48781,7 +53476,11 @@ d3-23
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 74B
+=======
+785
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48821,7 +53520,11 @@ d3-24
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 74C
+=======
+786
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48861,7 +53564,11 @@ d3-25
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 74D
+=======
+787
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48901,7 +53608,11 @@ d3-26
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 74E
+=======
+788
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48941,7 +53652,11 @@ d3-27
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 74F
+=======
+789
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -48981,7 +53696,11 @@ d3-28
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 750
+=======
+78A
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49021,7 +53740,11 @@ d3-29
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 751
+=======
+78B
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49061,7 +53784,11 @@ d3-30
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 752
+=======
+78C
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49101,7 +53828,11 @@ d3-31
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 753
+=======
+78D
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49141,7 +53872,11 @@ d3-32
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 754
+=======
+78E
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49181,7 +53916,11 @@ d3-33
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 755
+=======
+78F
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49221,7 +53960,11 @@ d3-34
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 756
+=======
+790
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49261,7 +54004,11 @@ d3-35
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 757
+=======
+791
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49301,7 +54048,11 @@ d3-36
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 758
+=======
+792
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49341,6 +54092,7 @@ d3-37
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 759
 100
 AcDbEntity
@@ -49366,6 +54118,9 @@ AcDbLine
 LINE
   5
 75A
+=======
+793
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49389,7 +54144,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 75B
+=======
+794
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49413,7 +54172,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 75C
+=======
+795
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49437,6 +54200,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 75D
 100
 AcDbEntity
@@ -49486,6 +54250,9 @@ AcDbLine
 LINE
   5
 75F
+=======
+796
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49509,6 +54276,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 760
 100
 AcDbEntity
@@ -49558,6 +54326,9 @@ AcDbLine
 LINE
   5
 762
+=======
+797
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49581,7 +54352,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 763
+=======
+798
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49605,6 +54380,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 764
 100
 AcDbEntity
@@ -49678,6 +54454,9 @@ AcDbLine
 LINE
   5
 767
+=======
+799
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49701,6 +54480,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 768
 100
 AcDbEntity
@@ -49726,6 +54506,9 @@ AcDbLine
 LINE
   5
 769
+=======
+79A
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49749,6 +54532,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 76A
 100
 AcDbEntity
@@ -49822,6 +54606,9 @@ AcDbLine
 LINE
   5
 76D
+=======
+79B
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -49843,6 +54630,7 @@ AcDbLine
  21
 2.7
   0
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 LWPOLYLINE
   5
 76E
@@ -50052,6 +54840,11 @@ AcDbLine
 LINE
   5
 776
+=======
+LINE
+  5
+79C
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50075,6 +54868,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 777
 100
 AcDbEntity
@@ -50148,6 +54942,9 @@ AcDbLine
 LINE
   5
 77A
+=======
+79D
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50171,6 +54968,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 77B
 100
 AcDbEntity
@@ -50244,6 +55042,9 @@ AcDbLine
 LINE
   5
 77E
+=======
+79E
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50267,7 +55068,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 77F
+=======
+79F
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50291,7 +55096,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 780
+=======
+7A0
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50315,7 +55124,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 781
+=======
+7A1
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50339,7 +55152,11 @@ AcDbLine
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 782
+=======
+7A2
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50379,6 +55196,7 @@ DOOR 700-0
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 783
 100
 AcDbEntity
@@ -50428,6 +55246,9 @@ AcDbLine
 LINE
   5
 785
+=======
+7A3
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50451,7 +55272,11 @@ AcDbLine
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 786
+=======
+7A4
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50491,6 +55316,7 @@ DOOR 700-1
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 787
 100
 AcDbEntity
@@ -50516,6 +55342,9 @@ AcDbLine
 LINE
   5
 788
+=======
+7A5
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50539,7 +55368,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 789
+=======
+7A6
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50563,7 +55396,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 78A
+=======
+7A7
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50587,7 +55424,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 78B
+=======
+7A8
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50611,6 +55452,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 78C
 100
 AcDbEntity
@@ -50660,6 +55502,9 @@ AcDbLine
 LINE
   5
 78E
+=======
+7A9
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50683,7 +55528,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 78F
+=======
+7AA
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50707,7 +55556,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 790
+=======
+7AB
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50731,7 +55584,11 @@ AcDbLine
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 791
+=======
+7AC
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50771,7 +55628,11 @@ DOOR 750-3
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 792
+=======
+7AD
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50811,7 +55672,11 @@ DOOR 750-4
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 793
+=======
+7AE
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50835,7 +55700,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 794
+=======
+7AF
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50859,7 +55728,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 795
+=======
+7B0
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50883,7 +55756,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 796
+=======
+7B1
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50907,7 +55784,11 @@ AcDbLine
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 797
+=======
+7B2
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50947,7 +55828,11 @@ DOOR 750-5
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 798
+=======
+7B3
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50971,7 +55856,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 799
+=======
+7B4
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -50995,6 +55884,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 79A
 100
 AcDbEntity
@@ -51044,6 +55934,9 @@ AcDbLine
 LINE
   5
 79C
+=======
+7B5
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51067,7 +55960,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 79D
+=======
+7B6
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51091,7 +55988,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 79E
+=======
+7B7
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51115,7 +56016,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 79F
+=======
+7B8
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51139,7 +56044,11 @@ AcDbLine
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A0
+=======
+7B9
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51179,7 +56088,11 @@ DOOR 750-7
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A1
+=======
+7BA
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51219,7 +56132,11 @@ DOOR 750-8
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A2
+=======
+7BB
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51243,7 +56160,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A3
+=======
+7BC
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51267,7 +56188,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A4
+=======
+7BD
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51291,7 +56216,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A5
+=======
+7BE
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51315,7 +56244,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A6
+=======
+7BF
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51339,7 +56272,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A7
+=======
+7C0
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51363,7 +56300,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A8
+=======
+7C1
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51387,7 +56328,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7A9
+=======
+7C2
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51411,7 +56356,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7AA
+=======
+7C3
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51435,7 +56384,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7AB
+=======
+7C4
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51459,7 +56412,11 @@ AcDbLine
   0
 LWPOLYLINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7AC
+=======
+7C5
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51497,7 +56454,11 @@ AcDbPolyline
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7AD
+=======
+7C6
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51521,7 +56482,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7AE
+=======
+7C7
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51545,7 +56510,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7AF
+=======
+7C8
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51569,7 +56538,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7B0
+=======
+7C9
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51593,7 +56566,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7B1
+=======
+7CA
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51617,7 +56594,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7B2
+=======
+7CB
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51641,7 +56622,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7B3
+=======
+7CC
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51665,7 +56650,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7B4
+=======
+7CD
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51689,7 +56678,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7B5
+=======
+7CE
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51713,7 +56706,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7B6
+=======
+7CF
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51737,6 +56734,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7B7
 100
 AcDbEntity
@@ -51762,6 +56760,9 @@ AcDbLine
 LINE
   5
 7B8
+=======
+7D0
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51785,7 +56786,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7B9
+=======
+7D1
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51809,6 +56814,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7BA
 100
 AcDbEntity
@@ -51834,6 +56840,9 @@ AcDbLine
 LINE
   5
 7BB
+=======
+7D2
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51857,7 +56866,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7BC
+=======
+7D3
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51881,7 +56894,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7BD
+=======
+7D4
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51905,7 +56922,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7BE
+=======
+7D5
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51929,7 +56950,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7BF
+=======
+7D6
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51953,7 +56978,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7C0
+=======
+7D7
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -51977,7 +57006,11 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7C1
+=======
+7D8
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52001,6 +57034,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7C2
 100
 AcDbEntity
@@ -52026,6 +57060,9 @@ AcDbLine
 LINE
   5
 7C3
+=======
+7D9
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52049,6 +57086,7 @@ AcDbLine
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7C4
 100
 AcDbEntity
@@ -52074,6 +57112,9 @@ AcDbLine
 LINE
   5
 7C5
+=======
+7DA
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52095,6 +57136,7 @@ AcDbLine
  21
 0.8500000000000001
   0
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 INSERT
   5
 7C6
@@ -52338,6 +57380,11 @@ interruptor paralelo-0
 MTEXT
   5
 7CC
+=======
+MTEXT
+  5
+7DB
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52383,7 +57430,11 @@ STANDARD
   0
 LWPOLYLINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7CD
+=======
+7DC
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52421,7 +57472,11 @@ AcDbPolyline
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7CE
+=======
+7DD
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52467,7 +57522,11 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7CF
+=======
+7DE
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52513,7 +57572,11 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7D0
+=======
+7DF
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52559,7 +57622,11 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7D1
+=======
+7E0
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52605,7 +57672,11 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7D2
+=======
+7E1
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52651,7 +57722,11 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7D3
+=======
+7E2
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52697,7 +57772,11 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7D4
+=======
+7E3
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52743,7 +57822,11 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7D5
+=======
+7E4
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52789,7 +57872,11 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7D6
+=======
+7E5
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52835,7 +57922,11 @@ STANDARD
   0
 INSERT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7D7
+=======
+7E6
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52875,6 +57966,7 @@ DOOR 750-1
   0
 LINE
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7D8
 100
 AcDbEntity
@@ -52900,6 +57992,9 @@ AcDbLine
 LINE
   5
 7D9
+=======
+7E7
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -52923,6 +58018,7 @@ AcDbLine
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7DA
 100
 AcDbEntity
@@ -52974,6 +58070,13 @@ MTEXT
 AcDbEntity
   8
 DOOR HATCH
+=======
+7E8
+100
+AcDbEntity
+  8
+names
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -53015,11 +58118,19 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7DC
 100
 AcDbEntity
   8
 DOOR HATCH
+=======
+7E9
+100
+AcDbEntity
+  8
+names
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -53061,11 +58172,19 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7DD
 100
 AcDbEntity
   8
 DOOR HATCH
+=======
+7EA
+100
+AcDbEntity
+  8
+names
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -53107,11 +58226,19 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7DE
 100
 AcDbEntity
   8
 DOOR HATCH
+=======
+7EB
+100
+AcDbEntity
+  8
+names
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -53153,11 +58280,19 @@ STANDARD
   0
 MTEXT
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7DF
 100
 AcDbEntity
   8
 DOOR HATCH
+=======
+7EC
+100
+AcDbEntity
+  8
+names
+>>>>>>> Stashed changes:drawings/#draw.dxf
   6
 ByLayer
  62
@@ -53197,9 +58332,61 @@ STANDARD
  44
 1
   0
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 INSERT
   5
 7E0
+=======
+MTEXT
+  5
+7ED
+100
+AcDbEntity
+  8
+names
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.053962721991162
+ 20
+6.244416769720588
+ 30
+0
+ 40
+0.2
+ 41
+1.86111117156813
+ 71
+    4
+ 72
+    1
+  1
+Supervisão de \Pprodução
+  7
+STANDARD
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+INSERT
+  5
+7EE
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbEntity
   8
@@ -53213,11 +58400,5609 @@ ByLayer
 100
 AcDbBlockReference
   2
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 lamp-0
  10
 0.09999999999999978
  20
 -2.7
+=======
+lamp
+ 10
+0.8000000000000003
+ 20
+4.300000000000001
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7EF
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+0.8000000000000003
+ 20
+3.2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F0
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+2.9
+ 20
+3.2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F1
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+2.9
+ 20
+4.300000000000001
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F2
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+1.9
+ 20
+2.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F3
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+1.9
+ 20
+4.85
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+270
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F4
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+0.0498314672658313
+ 20
+-5.102690218171186
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F5
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa na parede
+ 10
+0.07360770376497072
+ 20
+-3.8
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F6
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede
+ 10
+0.07360770376497072
+ 20
+-4.444812490998999
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F7
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+0.07360770376497072
+ 20
+-3
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F8
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+0.07360770376497072
+ 20
+-5.699999999999999
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7F9
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor paralelo
+ 10
+0.07360770376497072
+ 20
+-6.8
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7FA
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor duplo
+ 10
+0.07360770376497072
+ 20
+-6.3
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7FB
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa e alta de parede
+ 10
+0.15
+ 20
+1.35
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7FC
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+1.1
+ 20
+2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7FD
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+1.1
+ 20
+0.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7FE
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+3.8
+ 20
+0.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+7FF
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+3.8
+ 20
+2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+800
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+2.549999999999999
+ 20
+0.15
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+801
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+2.549999999999999
+ 20
+2.55
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+270
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+802
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+3.75
+ 20
+3.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+LINE
+  5
+803
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.9
+ 20
+2.55
+ 11
+3.9
+ 21
+2.7
+  0
+LINE
+  5
+804
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.15
+ 20
+2.7
+ 11
+0.15
+ 21
+4.85
+  0
+LINE
+  5
+805
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.15
+ 20
+4.85
+ 11
+3.75
+ 21
+4.85
+  0
+LINE
+  5
+806
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.55
+ 20
+2.85
+ 11
+8.300000000000001
+ 21
+2.85
+  0
+LINE
+  5
+807
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.399999999999999
+ 20
+6.000000000000001
+ 11
+7.6
+ 21
+6.000000000000001
+  0
+LINE
+  5
+808
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.55
+ 20
+4.050000000000001
+ 11
+7.6
+ 21
+4.050000000000001
+  0
+LINE
+  5
+809
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.55
+ 20
+4.200000000000001
+ 11
+6.55
+ 21
+5.850000000000001
+  0
+LINE
+  5
+80A
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.55
+ 20
+2.85
+ 11
+6.55
+ 21
+4.050000000000001
+  0
+LINE
+  5
+80B
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.499999999999998
+ 20
+2.85
+ 11
+8.499999999999998
+ 21
+4.95
+  0
+LINE
+  5
+80C
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.300000000000001
+ 20
+2.85
+ 11
+8.499999999999998
+ 21
+2.85
+  0
+LINE
+  5
+80D
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.05
+ 20
+2.85
+ 11
+11.05
+ 21
+4.95
+  0
+LINE
+  5
+80E
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.05
+ 20
+2.85
+ 11
+8.649999999999999
+ 21
+2.85
+  0
+LWPOLYLINE
+  5
+80F
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+8.499999999999998
+ 20
+4.95
+ 10
+8.499999999999998
+ 20
+5.100000000000001
+ 10
+8.649999999999999
+ 20
+5.100000000000001
+ 10
+8.499999999999998
+ 20
+5.100000000000001
+  0
+LINE
+  5
+810
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.55
+ 20
+2.7
+ 11
+6.55
+ 21
+0.15
+  0
+LINE
+  5
+811
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.55
+ 20
+6.000000000000001
+ 11
+6.399999999999999
+ 21
+6.000000000000001
+  0
+LINE
+  5
+812
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.55
+ 20
+0.15
+ 11
+8.15
+ 21
+0.15
+  0
+LINE
+  5
+813
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.1
+ 20
+0.15
+ 11
+6.399999999999999
+ 21
+0.15
+  0
+LINE
+  5
+814
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.300000000000001
+ 20
+0.15
+ 11
+11.05
+ 21
+0.15
+  0
+LINE
+  5
+815
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+27.05
+ 20
+0.15
+ 11
+27.05
+ 21
+7.5
+  0
+LINE
+  5
+816
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.2
+ 20
+0.15
+ 11
+27.05000000000001
+ 21
+0.15
+  0
+LINE
+  5
+817
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+15.90000000000001
+ 20
+7.650000000000004
+ 11
+27.05
+ 21
+7.65
+  0
+LINE
+  5
+818
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+27.05
+ 20
+11.35
+ 11
+15.90000000000001
+ 21
+11.35
+  0
+LINE
+  5
+819
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+27.05
+ 20
+7.650000000000001
+ 11
+27.05
+ 21
+11.35
+  0
+LINE
+  5
+81A
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.550000000000005
+ 20
+7.650000000000004
+ 11
+15.75000000000001
+ 21
+7.650000000000004
+  0
+LINE
+  5
+81B
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+15.75000000000001
+ 20
+11.35
+ 11
+6.550000000000006
+ 21
+11.35
+  0
+LINE
+  5
+81C
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.550000000000006
+ 20
+11.35
+ 11
+6.550000000000005
+ 21
+7.650000000000004
+  0
+LINE
+  5
+81D
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.6
+ 20
+6.000000000000001
+ 11
+7.6
+ 21
+5.800000000000002
+  0
+LINE
+  5
+81E
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.599999999999999
+ 20
+5.100000000000001
+ 11
+7.6
+ 21
+4.050000000000001
+  0
+LINE
+  5
+81F
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.705260979705862
+ 20
+5.100000000000001
+ 11
+8.649999999999999
+ 21
+5.100000000000001
+  0
+LINE
+  5
+820
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.399999999999999
+ 20
+6.000000000000001
+ 11
+6.399999999999999
+ 21
+2.69986152801329
+  0
+LINE
+  5
+821
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.399999999999999
+ 20
+2.559080688444597
+ 11
+6.399999999999999
+ 21
+0.15
+  0
+LINE
+  5
+822
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.75
+ 20
+4.85
+ 11
+3.75
+ 21
+4.748484213818825
+  0
+LINE
+  5
+823
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.75
+ 20
+3.918484213818825
+ 11
+3.75
+ 21
+2.7
+  0
+LINE
+  5
+824
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.05
+ 20
+2.55
+ 11
+11.05
+ 21
+2.7
+  0
+LINE
+  5
+825
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.05
+ 20
+0.15
+ 11
+11.05
+ 21
+0.3
+  0
+LINE
+  5
+826
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.15
+ 20
+2
+ 11
+8.15
+ 21
+2.7
+  0
+LINE
+  5
+827
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.15
+ 20
+0.15
+ 11
+8.15
+ 21
+0.8500000000000001
+  0
+LINE
+  5
+828
+100
+AcDbEntity
+  8
+plant
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.05
+ 20
+5.100000000000001
+ 11
+9.504000527673508
+ 21
+5.100000000000001
+  0
+INSERT
+  5
+829
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+5.200000000000001
+ 20
+6.1
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+82A
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+5.200000000000001
+ 20
+3.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+82B
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+0.15
+ 20
+3.775
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+82C
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor duplo
+ 10
+3.9
+ 20
+6.300000000000001
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+82D
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+6.100000000000001
+ 20
+7.500000000000001
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+82E
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+6.400000000000001
+ 20
+5.2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+82F
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+6.400000000000001
+ 20
+3.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+830
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+5.749999999999999
+ 20
+0.6999999999999998
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+831
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor duplo
+ 10
+3.3
+ 20
+2.55
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+270
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+832
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede
+ 10
+3.9
+ 20
+5.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+833
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+5.75161175105274
+ 20
+1.498219087866773
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+834
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla media na parede
+ 10
+5.100000000000001
+ 20
+1.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+835
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+5.550000000000001
+ 20
+1.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+836
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+7.000000000000001
+ 20
+4.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+837
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+7.000000000000001
+ 20
+5.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+838
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede
+ 10
+6.550000000000001
+ 20
+5.2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+839
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+7.200000000000001
+ 20
+3.4
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+83A
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+8
+ 20
+3.4
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+83B
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla media na parede com interruptor
+ 10
+7.449999999999998
+ 20
+4.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+83C
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla media na parede com interruptor
+ 10
+7.600000000000001
+ 20
+4.2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+83D
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+9.300000000000001
+ 20
+3.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+83E
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+10.5
+ 20
+3.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+83F
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+9.800000000000001
+ 20
+4.95
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+840
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+8.300000000000001
+ 20
+5.8
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    2
+ 71
+    2
+ 44
+2
+ 45
+1
+  0
+INSERT
+  5
+841
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor paralelo
+ 10
+6.550000000000005
+ 20
+7.200000000000001
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+2
+ 45
+1
+  0
+INSERT
+  5
+842
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor paralelo
+ 10
+11.05
+ 20
+6.400000000000001
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+2
+ 45
+1
+  0
+INSERT
+  5
+843
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla media na parede
+ 10
+9.4
+ 20
+7.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+2
+ 45
+1
+  0
+INSERT
+  5
+844
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+6.8
+ 20
+2.85
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+845
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede
+ 10
+8.300000000000001
+ 20
+2.85
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+846
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa na parede
+ 10
+10.5
+ 20
+2.85
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+847
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa na parede
+ 10
+9.300000000000001
+ 20
+2.85
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+848
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+11.05
+ 20
+5.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+2
+ 45
+1
+  0
+INSERT
+  5
+849
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede
+ 10
+9.9
+ 20
+5.100000000000001
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+2
+ 45
+1
+  0
+INSERT
+  5
+84A
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+7.35
+ 20
+0.6999999999999998
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    2
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+84B
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+6.55
+ 20
+1.425
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+84C
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede
+ 10
+6.55
+ 20
+2.2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+84D
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede
+ 10
+6.55
+ 20
+0.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+84E
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla media na parede
+ 10
+8.15
+ 20
+2.35
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+84F
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+21
+ 20
+6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+850
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+25
+ 20
+6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+851
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+25
+ 20
+2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+852
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+21
+ 20
+2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+853
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+25
+ 20
+7.500000000000003
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+854
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+11.2
+ 20
+6.320450487116514
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+855
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+21
+ 20
+0.15
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+856
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+25
+ 20
+0.15
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+857
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+26
+ 20
+9.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    4
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+858
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa e alta de parede
+ 10
+27.05
+ 20
+6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+859
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+20
+ 20
+7.499999999999999
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+85A
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tripla media na parede
+ 10
+27.05
+ 20
+3.825
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
+  0
+INSERT
+  5
+85B
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+8.15
+ 20
+0.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+85C
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+10.4
+ 20
+0.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+85D
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+8.9
+ 20
+0.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+85E
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+8.900000000000002
+ 20
+2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+85F
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+10.4
+ 20
+2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+860
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+13
+ 20
+6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+861
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+17
+ 20
+6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+862
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+17
+ 20
+2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+863
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+13
+ 20
+2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+864
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+13
+ 20
+0.15
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+865
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada dupla baixa na parede
+ 10
+17
+ 20
+7.500000000000003
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+866
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tripla media na parede
+ 10
+11.2
+ 20
+3.825
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+867
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+17
+ 20
+7.65
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+868
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+7.7
+ 20
+7.65
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+869
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+8
+ 20
+10
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+86A
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+14
+ 20
+10
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+86B
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+14
+ 20
+9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+86C
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+8
+ 20
+9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+86D
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+11
+ 20
+10
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+86E
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+11
+ 20
+9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+86F
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tripla media na parede
+ 10
+14
+ 20
+11.35
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+870
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tripla media na parede
+ 10
+27.05
+ 20
+9.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+LINE
+  5
+871
+100
+AcDbEntity
+  8
+plant
+  6
+DASHEDTINY
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+19.12500000000001
+ 20
+0.15
+ 11
+19.12500000000001
+ 21
+7.499999999999999
+  0
+INSERT
+  5
+872
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa na parede
+ 10
+8.9
+ 20
+0.15
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+873
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa na parede
+ 10
+10.4
+ 20
+0.15
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+874
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa na parede
+ 10
+8.9
+ 20
+2.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+875
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa na parede
+ 10
+10.4
+ 20
+2.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+876
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+11.2
+ 20
+5.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+877
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+17
+ 20
+0.15
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+878
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tripla baixa na parede
+ 10
+21.475
+ 20
+7.650000000000002
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+879
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tripla baixa na parede
+ 10
+11
+ 20
+7.650000000000005
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+87A
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tripla baixa na parede
+ 10
+21.475
+ 20
+11.35
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+87B
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tripla baixa na parede
+ 10
+11
+ 20
+11.35
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+87C
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa na parede
+ 10
+13
+ 20
+7.500000000000001
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+87D
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+8.9
+ 20
+9.000000000000002
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+87E
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+8.9
+ 20
+10
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+87F
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+18
+ 20
+9.000000000000002
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+880
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+18
+ 20
+10
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+881
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+21
+ 20
+3
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+882
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+21
+ 20
+5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+883
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+15
+ 20
+2.75
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+884
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+17
+ 20
+2.75
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+885
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+15
+ 20
+4.95
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+886
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+17
+ 20
+4.95
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+887
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+13
+ 20
+4.95
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+888
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+13
+ 20
+2.75
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+889
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+quadro terminal embutido
+ 10
+-2.775557561562891e-16
+ 20
+-8
+>>>>>>> Stashed changes:drawings/#draw.dxf
  30
 0
  41
@@ -53269,7 +64054,11 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
+<<<<<<< Updated upstream:drawings/blocks/Symbols/lamp.dxf
 7E1
+=======
+88A
+>>>>>>> Stashed changes:drawings/#draw.dxf
 100
 AcDbPlotSettings
   6
