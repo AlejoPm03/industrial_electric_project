@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-5.862021394053194
+5.993222903828221
  22
-2.860760107750327
+1.478793862493598
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-6.61916663403077
+3.483381098318253
  41
 1.841981132075472
  42
@@ -2391,7 +2391,7 @@ AcDbLayerTableRecord
   2
 names
  70
-    4
+    5
  62
     7
   6
@@ -58411,86 +58411,6 @@ ByLayer
 100
 AcDbBlockReference
   2
-tomada dupla media na parede com interruptor
- 10
-7.449999999999998
- 20
-4.9
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-180
- 70
-    1
- 71
-    1
- 44
-1
- 45
-1
-  0
-INSERT
-  5
-879
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-tomada dupla media na parede com interruptor
- 10
-7.600000000000001
- 20
-4.2
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-1
- 45
-1
-  0
-INSERT
-  5
-87A
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
 lamp
  10
 9.300000000000001
@@ -58517,7 +58437,7 @@ lamp
   0
 INSERT
   5
-87B
+879
 100
 AcDbEntity
   8
@@ -58557,7 +58477,7 @@ lamp
   0
 INSERT
   5
-87C
+87A
 100
 AcDbEntity
   8
@@ -58597,7 +58517,7 @@ interruptor simples
   0
 INSERT
   5
-87D
+87B
 100
 AcDbEntity
   8
@@ -58637,7 +58557,7 @@ lamp
   0
 INSERT
   5
-87E
+87C
 100
 AcDbEntity
   8
@@ -58677,7 +58597,7 @@ interruptor paralelo
   0
 INSERT
   5
-87F
+87D
 100
 AcDbEntity
   8
@@ -58717,7 +58637,7 @@ interruptor paralelo
   0
 INSERT
   5
-880
+87E
 100
 AcDbEntity
   8
@@ -58757,7 +58677,7 @@ tomada dupla media na parede
   0
 INSERT
   5
-881
+87F
 100
 AcDbEntity
   8
@@ -58797,7 +58717,7 @@ tomada alta na parede
   0
 INSERT
   5
-882
+880
 100
 AcDbEntity
   8
@@ -58837,7 +58757,7 @@ tomada media na parede
   0
 INSERT
   5
-883
+881
 100
 AcDbEntity
   8
@@ -58877,7 +58797,7 @@ tomada alta na parede
   0
 INSERT
   5
-884
+882
 100
 AcDbEntity
   8
@@ -58917,7 +58837,7 @@ tomada media na parede
   0
 INSERT
   5
-885
+883
 100
 AcDbEntity
   8
@@ -58957,7 +58877,7 @@ lamp
   0
 INSERT
   5
-886
+884
 100
 AcDbEntity
   8
@@ -58997,7 +58917,7 @@ tomada alta na parede
   0
 INSERT
   5
-887
+885
 100
 AcDbEntity
   8
@@ -59037,7 +58957,7 @@ tomada media na parede
   0
 INSERT
   5
-888
+886
 100
 AcDbEntity
   8
@@ -59077,6 +58997,86 @@ tomada media na parede
   0
 INSERT
   5
+887
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+21
+ 20
+6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+888
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+25
+ 20
+6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
 889
 100
 AcDbEntity
@@ -59091,11 +59091,11 @@ ByLayer
 100
 AcDbBlockReference
   2
-tomada dupla media na parede
+lamp
  10
-8.15
+25
  20
-2.35
+2
  30
 0
  41
@@ -59105,7 +59105,7 @@ tomada dupla media na parede
  43
 0
  50
-180
+0
  70
     1
  71
@@ -59135,7 +59135,7 @@ lamp
  10
 21
  20
-6
+2
  30
 0
  41
@@ -59158,126 +59158,6 @@ lamp
 INSERT
   5
 88B
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-lamp
- 10
-25
- 20
-6
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-1.5
- 45
-1.5
-  0
-INSERT
-  5
-88C
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-lamp
- 10
-25
- 20
-2
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-1.5
- 45
-1.5
-  0
-INSERT
-  5
-88D
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-lamp
- 10
-21
- 20
-2
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-1.5
- 45
-1.5
-  0
-INSERT
-  5
-88E
 100
 AcDbEntity
   8
@@ -59317,7 +59197,7 @@ tomada dupla baixa na parede
   0
 INSERT
   5
-88F
+88C
 100
 AcDbEntity
   8
@@ -59357,7 +59237,7 @@ interruptor simples
   0
 INSERT
   5
-890
+88D
 100
 AcDbEntity
   8
@@ -59397,7 +59277,7 @@ tomada dupla baixa na parede
   0
 INSERT
   5
-891
+88E
 100
 AcDbEntity
   8
@@ -59437,7 +59317,7 @@ lamp
   0
 INSERT
   5
-892
+88F
 100
 AcDbEntity
   8
@@ -59477,7 +59357,7 @@ tomada baixa e alta de parede
   0
 INSERT
   5
-893
+890
 100
 AcDbEntity
   8
@@ -59517,7 +59397,7 @@ interruptor simples
   0
 INSERT
   5
-894
+891
 100
 AcDbEntity
   8
@@ -59557,7 +59437,7 @@ tomada tripla media na parede
   0
 INSERT
   5
-895
+892
 100
 AcDbEntity
   8
@@ -59597,7 +59477,7 @@ interruptor simples
   0
 INSERT
   5
-896
+893
 100
 AcDbEntity
   8
@@ -59637,7 +59517,7 @@ lamp
   0
 INSERT
   5
-897
+894
 100
 AcDbEntity
   8
@@ -59677,7 +59557,7 @@ lamp
   0
 INSERT
   5
-898
+895
 100
 AcDbEntity
   8
@@ -59717,7 +59597,7 @@ lamp
   0
 INSERT
   5
-899
+896
 100
 AcDbEntity
   8
@@ -59734,6 +59614,126 @@ AcDbBlockReference
 lamp
  10
 10.4
+ 20
+2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+897
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+13
+ 20
+6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+898
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+17
+ 20
+6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1.5
+ 45
+1.5
+  0
+INSERT
+  5
+899
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+17
  20
 2
  30
@@ -59775,7 +59775,7 @@ lamp
  10
 13
  20
-6
+2
  30
 0
  41
@@ -59798,126 +59798,6 @@ lamp
 INSERT
   5
 89B
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-lamp
- 10
-17
- 20
-6
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-1.5
- 45
-1.5
-  0
-INSERT
-  5
-89C
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-lamp
- 10
-17
- 20
-2
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-1.5
- 45
-1.5
-  0
-INSERT
-  5
-89D
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-lamp
- 10
-13
- 20
-2
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-1.5
- 45
-1.5
-  0
-INSERT
-  5
-89E
 100
 AcDbEntity
   8
@@ -59957,7 +59837,7 @@ tomada dupla baixa na parede
   0
 INSERT
   5
-89F
+89C
 100
 AcDbEntity
   8
@@ -59997,7 +59877,7 @@ tomada dupla baixa na parede
   0
 INSERT
   5
-8A0
+89D
 100
 AcDbEntity
   8
@@ -60037,7 +59917,7 @@ tomada tripla media na parede
   0
 INSERT
   5
-8A1
+89E
 100
 AcDbEntity
   8
@@ -60077,7 +59957,7 @@ interruptor simples
   0
 INSERT
   5
-8A2
+89F
 100
 AcDbEntity
   8
@@ -60117,7 +59997,7 @@ interruptor simples
   0
 INSERT
   5
-8A3
+8A0
 100
 AcDbEntity
   8
@@ -60157,7 +60037,7 @@ lamp
   0
 INSERT
   5
-8A4
+8A1
 100
 AcDbEntity
   8
@@ -60174,6 +60054,126 @@ AcDbBlockReference
 lamp
  10
 14
+ 20
+10
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+8A2
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+14
+ 20
+9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+8A3
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+8
+ 20
+9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+8A4
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+lamp
+ 10
+11
  20
 10
  30
@@ -60213,7 +60213,7 @@ AcDbBlockReference
   2
 lamp
  10
-14
+11
  20
 9
  30
@@ -60238,126 +60238,6 @@ lamp
 INSERT
   5
 8A6
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-lamp
- 10
-8
- 20
-9
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-90
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8A7
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-lamp
- 10
-11
- 20
-10
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-90
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8A8
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-lamp
- 10
-11
- 20
-9
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-90
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8A9
 100
 AcDbEntity
   8
@@ -60397,7 +60277,7 @@ tomada tripla media na parede
   0
 INSERT
   5
-8AA
+8A7
 100
 AcDbEntity
   8
@@ -60437,7 +60317,7 @@ tomada tripla media na parede
   0
 LINE
   5
-8AB
+8A8
 100
 AcDbEntity
   8
@@ -60461,7 +60341,7 @@ AcDbLine
   0
 INSERT
   5
-8AC
+8A9
 100
 AcDbEntity
   8
@@ -60501,7 +60381,7 @@ tomada baixa na parede
   0
 INSERT
   5
-8AD
+8AA
 100
 AcDbEntity
   8
@@ -60541,7 +60421,7 @@ tomada baixa na parede
   0
 INSERT
   5
-8AE
+8AB
 100
 AcDbEntity
   8
@@ -60581,7 +60461,7 @@ tomada alta na parede
   0
 INSERT
   5
-8AF
+8AC
 100
 AcDbEntity
   8
@@ -60600,6 +60480,126 @@ tomada no piso
 8.9
  20
 9.000000000000002
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+8AD
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+8.9
+ 20
+10
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+8AE
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+18
+ 20
+9.000000000000002
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+8AF
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+18
+ 20
+10
  30
 0
  41
@@ -60622,126 +60622,6 @@ tomada no piso
 INSERT
   5
 8B0
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-tomada no piso
- 10
-8.9
- 20
-10
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-90
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8B1
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-tomada no piso
- 10
-18
- 20
-9.000000000000002
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-90
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8B2
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-tomada no piso
- 10
-18
- 20
-10
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-90
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8B3
 100
 AcDbEntity
   8
@@ -60781,7 +60661,7 @@ tomada no piso
   0
 INSERT
   5
-8B4
+8B1
 100
 AcDbEntity
   8
@@ -60821,7 +60701,7 @@ tomada no piso
   0
 INSERT
   5
-8B5
+8B2
 100
 AcDbEntity
   8
@@ -60840,6 +60720,126 @@ tomada no piso
 15
  20
 2.75
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+8B3
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+17
+ 20
+2.75
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+8B4
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+15
+ 20
+4.95
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+8B5
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada no piso
+ 10
+17
+ 20
+4.95
  30
 0
  41
@@ -60877,9 +60877,9 @@ AcDbBlockReference
   2
 tomada no piso
  10
-17
+13
  20
-2.75
+4.95
  30
 0
  41
@@ -60917,126 +60917,6 @@ AcDbBlockReference
   2
 tomada no piso
  10
-15
- 20
-4.95
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8B8
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-tomada no piso
- 10
-17
- 20
-4.95
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8B9
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-tomada no piso
- 10
-13
- 20
-4.95
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8BA
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-tomada no piso
- 10
 13
  20
 2.75
@@ -61061,7 +60941,7 @@ tomada no piso
   0
 INSERT
   5
-8BB
+8B8
 100
 AcDbEntity
   8
@@ -61101,7 +60981,7 @@ tomada baixa na parede
   0
 INSERT
   5
-8BC
+8B9
 100
 AcDbEntity
   8
@@ -61141,7 +61021,7 @@ quadro terminal embutido
   0
 INSERT
   5
-8BD
+8BA
 100
 AcDbEntity
   8
@@ -61181,7 +61061,7 @@ quadro de distribuição embutido
   0
 INSERT
   5
-8BE
+8BB
 100
 AcDbEntity
   8
@@ -61221,7 +61101,7 @@ quadro de medição embutido
   0
 INSERT
   5
-8BF
+8BC
 100
 AcDbEntity
   8
@@ -61261,7 +61141,7 @@ quadro de medição embutido
   0
 INSERT
   5
-8C0
+8BD
 100
 AcDbEntity
   8
@@ -61301,47 +61181,7 @@ quadro de distribuição embutido
   0
 INSERT
   5
-8C1
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-tomada baixa e alta de parede
- 10
-5.100000000000001
- 20
-1.9
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8C2
+8BE
 100
 AcDbEntity
   8
@@ -61381,7 +61221,7 @@ tomada alta na parede
   0
 INSERT
   5
-8C3
+8BF
 100
 AcDbEntity
   8
@@ -61421,47 +61261,7 @@ tomada baixa e alta de parede
   0
 INSERT
   5
-8C4
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-quadro terminal embutido
- 10
-6.55
- 20
-1.425
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-180
- 70
-    1
- 71
-    1
- 44
-3
- 45
-1.5
-  0
-INSERT
-  5
-8C5
+8C0
 100
 AcDbEntity
   8
@@ -61501,7 +61301,7 @@ quadro terminal embutido
   0
 INSERT
   5
-8C6
+8C1
 100
 AcDbEntity
   8
@@ -61541,7 +61341,7 @@ quadro terminal embutido
   0
 INSERT
   5
-8C7
+8C2
 100
 AcDbEntity
   8
@@ -61581,7 +61381,7 @@ tomada alta na parede
   0
 INSERT
   5
-8C8
+8C3
 100
 AcDbEntity
   8
@@ -61621,7 +61421,7 @@ tomada alta na parede
   0
 INSERT
   5
-8C9
+8C4
 100
 AcDbEntity
   8
@@ -61661,7 +61461,7 @@ tomada alta na parede
   0
 INSERT
   5
-8CA
+8C5
 100
 AcDbEntity
   8
@@ -61701,7 +61501,7 @@ tomada alta na parede
   0
 INSERT
   5
-8CB
+8C6
 100
 AcDbEntity
   8
@@ -61741,7 +61541,7 @@ tomada tripla baixa na parede
   0
 INSERT
   5
-8CC
+8C7
 100
 AcDbEntity
   8
@@ -61781,7 +61581,7 @@ tomada tripla baixa na parede
   0
 INSERT
   5
-8CD
+8C8
 100
 AcDbEntity
   8
@@ -61821,7 +61621,7 @@ tomada tripla baixa na parede
   0
 INSERT
   5
-8CE
+8C9
 100
 AcDbEntity
   8
@@ -61861,7 +61661,7 @@ tomada baixa na parede
   0
 INSERT
   5
-8CF
+8CA
 100
 AcDbEntity
   8
@@ -61899,49 +61699,9 @@ tomada tripla baixa na parede
  45
 1.5
   0
-INSERT
-  5
-8D0
-100
-AcDbEntity
-  8
-symbols
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-interruptor simples
- 10
-5.456250000000001
- 20
-1.9
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-1
- 45
-1
-  0
 LINE
   5
-8D1
+8CB
 100
 AcDbEntity
   8
@@ -61965,7 +61725,7 @@ AcDbLine
   0
 CIRCLE
   5
-8D2
+8CC
 100
 AcDbEntity
   8
@@ -61987,7 +61747,7 @@ AcDbCircle
   0
 LINE
   5
-8D3
+8CD
 100
 AcDbEntity
   8
@@ -62011,7 +61771,7 @@ AcDbLine
   0
 MTEXT
   5
-8D4
+8CE
 100
 AcDbEntity
   8
@@ -62057,7 +61817,7 @@ AcDbMText
   0
 INSERT
   5
-8D5
+8CF
 100
 AcDbEntity
   8
@@ -62097,7 +61857,7 @@ tomada alta na parede
   0
 INSERT
   5
-8D6
+8D0
 100
 AcDbEntity
   8
@@ -62137,7 +61897,7 @@ tomada numero
   0
 INSERT
   5
-8D7
+8D1
 100
 AcDbEntity
   8
@@ -62177,7 +61937,7 @@ tomada tue
   0
 INSERT
   5
-8D8
+8D2
 100
 AcDbEntity
   8
@@ -62217,7 +61977,7 @@ tomada tue
   0
 MTEXT
   5
-8D9
+8D3
 100
 AcDbEntity
   8
@@ -62263,7 +62023,7 @@ AcDbMText
   0
 MTEXT
   5
-8DA
+8D4
 100
 AcDbEntity
   8
@@ -62309,7 +62069,7 @@ AcDbMText
   0
 MTEXT
   5
-8DB
+8D5
 100
 AcDbEntity
   8
@@ -62355,7 +62115,7 @@ AcDbMText
   0
 INSERT
   5
-8DC
+8D6
 100
 AcDbEntity
   8
@@ -62395,7 +62155,7 @@ tomada alta na parede
   0
 MTEXT
   5
-8DD
+8D7
 100
 AcDbEntity
   8
@@ -62441,7 +62201,7 @@ AcDbMText
   0
 MTEXT
   5
-8DE
+8D8
 100
 AcDbEntity
   8
@@ -62487,7 +62247,7 @@ AcDbMText
   0
 MTEXT
   5
-8DF
+8D9
 100
 AcDbEntity
   8
@@ -62533,7 +62293,7 @@ a
   0
 MTEXT
   5
-8E0
+8DA
 100
 AcDbEntity
   8
@@ -62579,7 +62339,7 @@ AcDbMText
   0
 MTEXT
   5
-8E1
+8DB
 100
 AcDbEntity
   8
@@ -62625,7 +62385,7 @@ AcDbMText
   0
 MTEXT
   5
-8E2
+8DC
 100
 AcDbEntity
   8
@@ -62671,7 +62431,7 @@ AcDbMText
   0
 MTEXT
   5
-8E3
+8DD
 100
 AcDbEntity
   8
@@ -62717,7 +62477,7 @@ AcDbMText
   0
 MTEXT
   5
-8E4
+8DE
 100
 AcDbEntity
   8
@@ -62763,7 +62523,7 @@ AcDbMText
   0
 MTEXT
   5
-8E5
+8DF
 100
 AcDbEntity
   8
@@ -62809,7 +62569,7 @@ a
   0
 MTEXT
   5
-8E6
+8E0
 100
 AcDbEntity
   8
@@ -62855,7 +62615,7 @@ b
   0
 MTEXT
   5
-8E7
+8E1
 100
 AcDbEntity
   8
@@ -62901,7 +62661,7 @@ b
   0
 MTEXT
   5
-8E8
+8E2
 100
 AcDbEntity
   8
@@ -62947,7 +62707,7 @@ a    b
   0
 MTEXT
   5
-8E9
+8E3
 100
 AcDbEntity
   8
@@ -62993,7 +62753,7 @@ AcDbMText
   0
 INSERT
   5
-8EA
+8E4
 100
 AcDbEntity
   8
@@ -63033,7 +62793,7 @@ tomada baixa na parede
   0
 INSERT
   5
-8EB
+8E5
 100
 AcDbEntity
   8
@@ -63073,7 +62833,7 @@ tomada alta na parede
   0
 MTEXT
   5
-8EC
+8E6
 100
 AcDbEntity
   8
@@ -63119,7 +62879,7 @@ AcDbMText
   0
 MTEXT
   5
-8ED
+8E7
 100
 AcDbEntity
   8
@@ -63165,7 +62925,7 @@ AcDbMText
   0
 MTEXT
   5
-8EE
+8E8
 100
 AcDbEntity
   8
@@ -63211,7 +62971,7 @@ AcDbMText
   0
 MTEXT
   5
-8EF
+8E9
 100
 AcDbEntity
   8
@@ -63257,7 +63017,7 @@ AcDbMText
   0
 MTEXT
   5
-8F0
+8EA
 100
 AcDbEntity
   8
@@ -63303,7 +63063,7 @@ AcDbMText
   0
 MTEXT
   5
-8F1
+8EB
 100
 AcDbEntity
   8
@@ -63349,7 +63109,7 @@ AcDbMText
   0
 MTEXT
   5
-8F2
+8EC
 100
 AcDbEntity
   8
@@ -63395,7 +63155,7 @@ AcDbMText
   0
 MTEXT
   5
-8F3
+8ED
 100
 AcDbEntity
   8
@@ -63424,6 +63184,282 @@ AcDbMText
     1
   1
 1
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+8EE
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+2.820895295583904
+ 20
+4.208219087866736
+ 30
+0
+ 40
+0.1
+ 41
+0.02222222222222222
+ 71
+    5
+ 72
+    1
+  1
+1
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+8EF
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+0.7192835445311634
+ 20
+3.11
+ 30
+0
+ 40
+0.1
+ 41
+0.02222222222222222
+ 71
+    5
+ 72
+    1
+  1
+1
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+8F0
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+2.820895295583904
+ 20
+3.108219087866736
+ 30
+0
+ 40
+0.1
+ 41
+0.02222222222222222
+ 71
+    5
+ 72
+    1
+  1
+1
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+8F1
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+0.883333333333334
+ 20
+4.209999999999999
+ 30
+0
+ 40
+0.1
+ 41
+0.03333333333333798
+ 71
+    5
+ 72
+    1
+  1
+c
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+8F2
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+2.984945084386075
+ 20
+4.208219087866736
+ 30
+0
+ 40
+0.1
+ 41
+0.03333333333333798
+ 71
+    5
+ 72
+    1
+  1
+c
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+8F3
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+2.984945084386075
+ 20
+3.108219087866736
+ 30
+0
+ 40
+0.1
+ 41
+0.03333333333333798
+ 71
+    5
+ 72
+    1
+  1
+c
   7
 
 210
@@ -63455,21 +63491,21 @@ ByLayer
 100
 AcDbMText
  10
-2.820895295583904
+0.883333333333334
  20
-4.208219087866736
+3.11
  30
 0
  40
 0.1
  41
-0.02222222222222222
+0.03333333333333798
  71
     5
  72
     1
   1
-1
+c
   7
 
 210
@@ -63488,282 +63524,6 @@ AcDbMText
 MTEXT
   5
 8F5
-100
-AcDbEntity
-  8
-light
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-0.7192835445311634
- 20
-3.11
- 30
-0
- 40
-0.1
- 41
-0.02222222222222222
- 71
-    5
- 72
-    1
-  1
-1
-  7
-
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-8F6
-100
-AcDbEntity
-  8
-light
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-2.820895295583904
- 20
-3.108219087866736
- 30
-0
- 40
-0.1
- 41
-0.02222222222222222
- 71
-    5
- 72
-    1
-  1
-1
-  7
-
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-8F7
-100
-AcDbEntity
-  8
-light
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-0.883333333333334
- 20
-4.209999999999999
- 30
-0
- 40
-0.1
- 41
-0.03333333333333798
- 71
-    5
- 72
-    1
-  1
-c
-  7
-
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-8F8
-100
-AcDbEntity
-  8
-light
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-2.984945084386075
- 20
-4.208219087866736
- 30
-0
- 40
-0.1
- 41
-0.03333333333333798
- 71
-    5
- 72
-    1
-  1
-c
-  7
-
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-8F9
-100
-AcDbEntity
-  8
-light
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-2.984945084386075
- 20
-3.108219087866736
- 30
-0
- 40
-0.1
- 41
-0.03333333333333798
- 71
-    5
- 72
-    1
-  1
-c
-  7
-
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-8FA
-100
-AcDbEntity
-  8
-light
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-0.883333333333334
- 20
-3.11
- 30
-0
- 40
-0.1
- 41
-0.03333333333333798
- 71
-    5
- 72
-    1
-  1
-c
-  7
-
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-8FB
 100
 AcDbEntity
   8
@@ -63809,7 +63569,7 @@ c
   0
 INSERT
   5
-8FC
+8F6
 100
 AcDbEntity
   8
@@ -63849,7 +63609,7 @@ tomada tue
   0
 MTEXT
   5
-8FD
+8F7
 100
 AcDbEntity
   8
@@ -63895,7 +63655,7 @@ AcDbMText
   0
 MTEXT
   5
-8FE
+8F8
 100
 AcDbEntity
   8
@@ -63941,7 +63701,7 @@ AcDbMText
   0
 MTEXT
   5
-8FF
+8F9
 100
 AcDbEntity
   8
@@ -63987,7 +63747,7 @@ AcDbMText
   0
 MTEXT
   5
-900
+8FA
 100
 AcDbEntity
   8
@@ -64033,99 +63793,7 @@ AcDbMText
   0
 MTEXT
   5
-901
-100
-AcDbEntity
-  8
-light
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-5.211357062485349
- 20
-6.172160938534957
- 30
-0
- 40
-0.07000000000000001
- 41
-0.2644444444444445
- 71
-    5
- 72
-    1
-  1
-100VA
-  7
-
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-902
-100
-AcDbEntity
-  8
-light
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-5.21296881353809
- 20
-3.970380026401694
- 30
-0
- 40
-0.07000000000000001
- 41
-0.2644444444444445
- 71
-    5
- 72
-    1
-  1
-100VA
-  7
-
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-903
+8FB
 100
 AcDbEntity
   8
@@ -64171,7 +63839,7 @@ AcDbMText
   0
 MTEXT
   5
-904
+8FC
 100
 AcDbEntity
   8
@@ -64217,7 +63885,7 @@ AcDbMText
   0
 MTEXT
   5
-905
+8FD
 100
 AcDbEntity
   8
@@ -64263,7 +63931,7 @@ d
   0
 MTEXT
   5
-906
+8FE
 100
 AcDbEntity
   8
@@ -64309,7 +63977,7 @@ e
   0
 MTEXT
   5
-907
+8FF
 100
 AcDbEntity
   8
@@ -64353,6 +64021,3354 @@ d   e
  44
 1
   0
+INSERT
+  5
+900
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+5.1
+ 20
+1.9
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+901
+100
+AcDbEntity
+  8
+symbols
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+5.1
+ 20
+2.3
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+902
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada baixa na parede
+ 10
+5.1
+ 20
+0.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+MTEXT
+  5
+903
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.449999999999999
+ 20
+2.300672554542797
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.02333333333333333
+ 71
+    5
+ 72
+    1
+  1
+f
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+904
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.449999999999999
+ 20
+1.9
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.14
+ 71
+    5
+ 72
+    1
+  1
+-8-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+905
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.45
+ 20
+0.5006725545427964
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.14
+ 71
+    5
+ 72
+    1
+  1
+-8-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+906
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.764580564590829
+ 20
+1.568599114268467
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+907
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.762968813538088
+ 20
+0.7703800264016932
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+908
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.211357062485349
+ 20
+6.172160938534957
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2488888888888889
+ 71
+    5
+ 72
+    1
+  1
+110VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+909
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.21296881353809
+ 20
+3.970380026401694
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2488888888888889
+ 71
+    5
+ 72
+    1
+  1
+110VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+90A
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.836556835438814
+ 20
+1.406438175733509
+ 30
+0
+ 40
+0.1
+ 41
+0.03333333333333333
+ 71
+    5
+ 72
+    1
+  1
+f
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+90B
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.834945084386074
+ 20
+0.6082190878667356
+ 30
+0
+ 40
+0.1
+ 41
+0.03333333333333333
+ 71
+    5
+ 72
+    1
+  1
+f
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+90C
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.672507046636643
+ 20
+1.406438175733509
+ 30
+0
+ 40
+0.1
+ 41
+0.04444444444444445
+ 71
+    5
+ 72
+    1
+  1
+7
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+90D
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+5.670895295583903
+ 20
+0.6082190878667356
+ 30
+0
+ 40
+0.1
+ 41
+0.04444444444444445
+ 71
+    5
+ 72
+    1
+  1
+7
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+INSERT
+  5
+90E
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede
+ 10
+7.449999999999999
+ 20
+4.8
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+90F
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+7.449999999999999
+ 20
+5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+910
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+6.550000000000001
+ 20
+5.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+911
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tue
+ 10
+6.400000000000001
+ 20
+5.2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+MTEXT
+  5
+912
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+6.919283544531164
+ 20
+5.41
+ 30
+0
+ 40
+0.1
+ 41
+0.06666666666666667
+ 71
+    5
+ 72
+    1
+  1
+X
+  7
+STANDARD
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+913
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+6.919283544531164
+ 20
+4.41
+ 30
+0
+ 40
+0.1
+ 41
+0.06666666666666667
+ 71
+    5
+ 72
+    1
+  1
+X
+  7
+STANDARD
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+914
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.01135706248535
+ 20
+5.572160938534958
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+915
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.01135706248535
+ 20
+4.572160938534958
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+916
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.083333333333335
+ 20
+5.41
+ 30
+0
+ 40
+0.1
+ 41
+0.04444444444445374
+ 71
+    5
+ 72
+    1
+  1
+g
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+917
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.083333333333335
+ 20
+4.41
+ 30
+0
+ 40
+0.1
+ 41
+0.04444444444445374
+ 71
+    5
+ 72
+    1
+  1
+g
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+918
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.1
+ 20
+4.999327445457204
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.03111111111111763
+ 71
+    5
+ 72
+    1
+  1
+g
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+919
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.099999999999999
+ 20
+4.799327445457203
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.14
+ 71
+    5
+ 72
+    1
+  1
+-x-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+91A
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+6.9
+ 20
+5.7
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.14
+ 71
+    5
+ 72
+    1
+  1
+-x-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+INSERT
+  5
+91B
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede com interruptor
+ 10
+7.600000000000001
+ 20
+4.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+91C
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada alta na parede
+ 10
+8.500000000000002
+ 20
+4.5
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+MTEXT
+  5
+91D
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.284945084386075
+ 20
+3.308219087866736
+ 30
+0
+ 40
+0.1
+ 41
+0.06666666666666667
+ 71
+    5
+ 72
+    1
+  1
+X
+  7
+STANDARD
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+91E
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.084945084386074
+ 20
+3.308219087866735
+ 30
+0
+ 40
+0.1
+ 41
+0.06666666666666667
+ 71
+    5
+ 72
+    1
+  1
+X
+  7
+STANDARD
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+91F
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.150000000000002
+ 20
+4.5
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1400000000000043
+ 71
+    5
+ 72
+    1
+  1
+-6-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+920
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.850000000000001
+ 20
+4.700672554542797
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1400000000000043
+ 71
+    5
+ 72
+    1
+  1
+-6-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+921
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+6.8
+ 20
+3.2
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1400000000000043
+ 71
+    5
+ 72
+    1
+  1
+-6-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+INSERT
+  5
+922
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tue
+ 10
+8.300000000000001
+ 20
+2.85
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+923
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tue
+ 10
+6.86
+ 20
+2.890000000000001
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+MTEXT
+  5
+924
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.012968813538089
+ 20
+3.470380026401693
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+925
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.21296881353809
+ 20
+3.470380026401694
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+926
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.050000000000001
+ 20
+4.500672554542796
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.03111111111111436
+ 71
+    5
+ 72
+    1
+  1
+h
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+927
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.920895295583904
+ 20
+3.308219087866735
+ 30
+0
+ 40
+0.1
+ 41
+0.04444444444444909
+ 71
+    5
+ 72
+    1
+  1
+h
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+928
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.120895295583905
+ 20
+3.308219087866736
+ 30
+0
+ 40
+0.1
+ 41
+0.04444444444444909
+ 71
+    5
+ 72
+    1
+  1
+h
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+INSERT
+  5
+929
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+quadro terminal embutido
+ 10
+6.4
+ 20
+1.4
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+MTEXT
+  5
+92A
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.900672554542798
+ 20
+2.350000000000001
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1400000000000043
+ 71
+    5
+ 72
+    1
+  1
+-6-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+180
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+92B
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+9.674327445457205
+ 20
+0.6499999999999997
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1400000000000043
+ 71
+    5
+ 72
+    1
+  1
+-6-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+INSERT
+  5
+92C
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tue
+ 10
+6.55
+ 20
+2.2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+INSERT
+  5
+92D
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada tue
+ 10
+10.4
+ 20
+2.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+-90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+MTEXT
+  5
+92E
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+6.9
+ 20
+5.200672554542797
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1788888888888889
+ 71
+    5
+ 72
+    1
+  1
+-10-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+92F
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.299327445457205
+ 20
+3.2
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1633333333333334
+ 71
+    5
+ 72
+    1
+  1
+-11-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+930
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+6.899999999999999
+ 20
+2.200672554542797
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1788888888888889
+ 71
+    5
+ 72
+    1
+  1
+-12-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+931
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+10.4006725545428
+ 20
+2.350000000000001
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1788888888888932
+ 71
+    5
+ 72
+    1
+  1
+-13-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+180
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+932
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.270895295583903
+ 20
+2.108219087866736
+ 30
+0
+ 40
+0.1
+ 41
+0.1111111111111111
+ 71
+    5
+ 72
+    1
+  1
+14
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+933
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.270895295583904
+ 20
+0.6082190878667355
+ 30
+0
+ 40
+0.1
+ 41
+0.1111111111111111
+ 71
+    5
+ 72
+    1
+  1
+14
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+934
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.819283544531164
+ 20
+1.91
+ 30
+0
+ 40
+0.1
+ 41
+0.1111111111111111
+ 71
+    5
+ 72
+    1
+  1
+14
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+935
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.819283544531164
+ 20
+0.8099999999999998
+ 30
+0
+ 40
+0.1
+ 41
+0.1111111111111111
+ 71
+    5
+ 72
+    1
+  1
+14
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+936
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+10.31928354453116
+ 20
+1.91
+ 30
+0
+ 40
+0.1
+ 41
+0.1111111111111111
+ 71
+    5
+ 72
+    1
+  1
+14
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+937
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+10.31928354453116
+ 20
+0.8099999999999998
+ 30
+0
+ 40
+0.1
+ 41
+0.1111111111111111
+ 71
+    5
+ 72
+    1
+  1
+14
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+938
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.434945084386074
+ 20
+2.108219087866736
+ 30
+0
+ 40
+0.1
+ 41
+0
+ 71
+    5
+ 72
+    1
+  1
+i
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+939
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.434945084386075
+ 20
+0.6082190878667355
+ 30
+0
+ 40
+0.1
+ 41
+0
+ 71
+    5
+ 72
+    1
+  1
+i
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+93A
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.983333333333334
+ 20
+1.91
+ 30
+0
+ 40
+0.1
+ 41
+0.02222222222222687
+ 71
+    5
+ 72
+    1
+  1
+j
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+93B
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+10.48333333333333
+ 20
+1.91
+ 30
+0
+ 40
+0.1
+ 41
+0.02222222222222687
+ 71
+    5
+ 72
+    1
+  1
+j
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+93C
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.983333333333334
+ 20
+0.8099999999999998
+ 30
+0
+ 40
+0.1
+ 41
+0.02222222222222687
+ 71
+    5
+ 72
+    1
+  1
+j
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+93D
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+10.48333333333333
+ 20
+0.8099999999999998
+ 30
+0
+ 40
+0.1
+ 41
+0.02222222222222687
+ 71
+    5
+ 72
+    1
+  1
+j
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+INSERT
+  5
+93E
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+interruptor simples
+ 10
+10.8
+ 20
+0.15
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+MTEXT
+  5
+93F
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.362968813538089
+ 20
+2.270380026401694
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+940
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.36296881353809
+ 20
+0.7703800264016931
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+941
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.911357062485349
+ 20
+2.072160938534958
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+942
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+8.911357062485349
+ 20
+0.9721609385349574
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+943
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+10.41135706248535
+ 20
+2.072160938534958
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+944
+100
+AcDbEntity
+  8
+light
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+10.41135706248535
+ 20
+0.9721609385349574
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.2644444444444445
+ 71
+    5
+ 72
+    1
+  1
+100VA
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+INSERT
+  5
+945
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada media na parede
+ 10
+8.15
+ 20
+2.2
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
+MTEXT
+  5
+946
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.800000000000001
+ 20
+2.199327445457204
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1788888888888932
+ 71
+    5
+ 72
+    1
+  1
+-15-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+947
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+7.800000000000001
+ 20
+0.4993274454572036
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0
+ 71
+    5
+ 72
+    1
+  1
+i
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+948
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+6.899999999999999
+ 20
+0.7006725545427963
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1788888888888932
+ 71
+    5
+ 72
+    1
+  1
+-15-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+949
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+6.899999999999999
+ 20
+1.425
+ 30
+0
+ 40
+0.07000000000000001
+ 41
+0.1788888888888932
+ 71
+    5
+ 72
+    1
+  1
+-15-
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+270
+ 73
+    2
+ 44
+1
+  0
+INSERT
+  5
+94A
+100
+AcDbEntity
+  8
+description
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+tomada numero
+ 10
+10.8
+ 20
+0.15
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+3
+ 45
+1.5
+  0
 ENDSEC
   0
 SECTION
@@ -64385,7 +67401,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-908
+94B
 100
 AcDbPlotSettings
   6
