@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-description
+wires
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-13.33215077945942
+19.62089194184075
  22
-7.27919778369702
+10.76689613521623
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-11.06229340604852
+30.89789483134811
  41
 1.841981132075472
  42
@@ -72977,6 +72977,534 @@ tomada tue
  45
 1.5
   0
+LINE
+  5
+9C7
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.4
+ 20
+1.7
+ 11
+6.45
+ 21
+1.7
+  0
+LINE
+  5
+9C8
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.45
+ 20
+1.7
+ 11
+6.45
+ 21
+1.4
+  0
+LINE
+  5
+9C9
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.45
+ 20
+1.4
+ 11
+6.300000000000001
+ 21
+1.27
+  0
+LINE
+  5
+9CA
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.75322350210548
+ 20
+1.296438175733509
+ 11
+5.75322350210548
+ 21
+1.27
+  0
+LINE
+  5
+9CB
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.75322350210548
+ 20
+1.27
+ 11
+5.75322350210548
+ 21
+0.9
+  0
+LINE
+  5
+9CC
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.75322350210548
+ 20
+1.7
+ 11
+5.75322350210548
+ 21
+3.7
+  0
+LINE
+  5
+9CD
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.75322350210548
+ 20
+3.7
+ 11
+5.5
+ 21
+3.9
+  0
+LINE
+  5
+9CE
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.5
+ 20
+3.9
+ 11
+5.4
+ 21
+3.9
+  0
+LINE
+  5
+9CF
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.100000000000001
+ 20
+1.9
+ 11
+5.050000000000001
+ 21
+1.9
+  0
+LINE
+  5
+9D0
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.050000000000001
+ 20
+1.9
+ 11
+5.050000000000001
+ 21
+0.5
+  0
+LINE
+  5
+9D1
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.050000000000001
+ 20
+0.5
+ 11
+5.1
+ 21
+0.5
+  0
+LINE
+  5
+9D2
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.1
+ 20
+2.300000000000001
+ 11
+5.050000000000001
+ 21
+2.3
+  0
+LINE
+  5
+9D3
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.050000000000001
+ 20
+1.9
+ 11
+5.050000000000001
+ 21
+2.3
+  0
+LINE
+  5
+9D4
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.300000000000001
+ 20
+1.27
+ 11
+5.900000000000001
+ 21
+1.27
+  0
+LINE
+  5
+9D5
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.900000000000001
+ 20
+1.27
+ 11
+5.850000000000001
+ 21
+1.32
+  0
+LINE
+  5
+9D6
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.050000000000001
+ 20
+1.28
+ 11
+5.640000000000001
+ 21
+1.28
+  0
+LINE
+  5
+9D7
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.640000000000001
+ 20
+1.28
+ 11
+5.670000000000001
+ 21
+1.31
+  0
+LINE
+  5
+9D8
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.670000000000001
+ 20
+1.31
+ 11
+5.673
+ 21
+1.313
+  0
+LINE
+  5
+9D9
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.399999831250001
+ 20
+3.5
+ 11
+6.44
+ 21
+3.5
+  0
+LINE
+  5
+9DA
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.44
+ 20
+3.5
+ 11
+6.44
+ 21
+2.24
+  0
+LINE
+  5
+9DB
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.44
+ 20
+2.24
+ 11
+6.4
+ 21
+2.24
+  0
+LINE
+  5
+9DC
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.44
+ 20
+3.500000000000001
+ 11
+6.44
+ 21
+5.2
+  0
 ENDSEC
   0
 SECTION
@@ -73009,7 +73537,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-9C7
+9DD
 100
 AcDbPlotSettings
   6
