@@ -2651,7 +2651,7 @@ HATCH
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2729,7 +2729,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2767,7 +2767,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2791,7 +2791,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2815,7 +2815,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2839,7 +2839,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2863,7 +2863,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2887,7 +2887,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2911,7 +2911,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2935,7 +2935,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2959,7 +2959,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -2983,7 +2983,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3007,7 +3007,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3031,7 +3031,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3055,7 +3055,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3079,7 +3079,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3103,7 +3103,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3127,7 +3127,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3151,7 +3151,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3175,7 +3175,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3199,7 +3199,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3223,7 +3223,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3265,7 +3265,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62
@@ -3289,7 +3289,7 @@ LINE
 100
 AcDbEntity
   8
-0
+board
   6
 ByLayer
  62

@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--0.1263886992532344
+10000000000
  20
--672.3730531735227
+10000000000
  30
 0
   9
 $EXTMAX
  10
-131.7
+-10000000000
  20
-11.5
+-10000000000
  30
 0
   9
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-19.62089194184075
+4.69152064078064
  22
-10.76689613521623
+2.145630435777254
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-30.89789483134811
+2.523570887016798
  41
-1.841981132075472
+1.865566037735849
  42
 50
  43
@@ -51207,7 +51207,7 @@ AcDbMText
   1
 MED
   7
-
+STANDARD
 210
 0
 220
@@ -51463,7 +51463,7 @@ AcDbMText
   1
 -6-
   7
-
+STANDARD
 210
 0
 220
@@ -51545,7 +51545,7 @@ AcDbMText
   1
 TUE
   7
-
+STANDARD
 210
 0
 220
@@ -61481,7 +61481,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -61687,7 +61687,7 @@ AcDbMText
   1
 -5-
   7
-
+STANDARD
 210
 0
 220
@@ -61733,7 +61733,7 @@ AcDbMText
   1
 -5-
   7
-
+STANDARD
 210
 0
 220
@@ -61779,7 +61779,7 @@ AcDbMText
   1
 4
   7
-
+STANDARD
 210
 0
 220
@@ -61865,7 +61865,7 @@ AcDbMText
   1
 -5-
   7
-
+STANDARD
 210
 0
 220
@@ -61911,7 +61911,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -61957,7 +61957,7 @@ AcDbMText
   1
 a
   7
-
+STANDARD
 210
 0
 220
@@ -62003,7 +62003,7 @@ AcDbMText
   1
 4
   7
-
+STANDARD
 210
 0
 220
@@ -62049,7 +62049,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -62095,7 +62095,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -62141,7 +62141,7 @@ AcDbMText
   1
 4
   7
-
+STANDARD
 210
 0
 220
@@ -62187,7 +62187,7 @@ AcDbMText
   1
 4
   7
-
+STANDARD
 210
 0
 220
@@ -62233,7 +62233,7 @@ AcDbMText
   1
 a
   7
-
+STANDARD
 210
 0
 220
@@ -62279,7 +62279,7 @@ AcDbMText
   1
 b
   7
-
+STANDARD
 210
 0
 220
@@ -62325,7 +62325,7 @@ AcDbMText
   1
 b
   7
-
+STANDARD
 210
 0
 220
@@ -62371,7 +62371,7 @@ AcDbMText
   1
 a    b
   7
-
+STANDARD
 210
 0
 220
@@ -62417,7 +62417,7 @@ AcDbMText
   1
 -3-
   7
-
+STANDARD
 210
 0
 220
@@ -62543,7 +62543,7 @@ AcDbMText
   1
 -2-
   7
-
+STANDARD
 210
 0
 220
@@ -62589,7 +62589,7 @@ AcDbMText
   1
 -2-
   7
-
+STANDARD
 210
 0
 220
@@ -62635,7 +62635,7 @@ AcDbMText
   1
 -2-
   7
-
+STANDARD
 210
 0
 220
@@ -62681,7 +62681,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -62727,7 +62727,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -62773,7 +62773,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -62819,7 +62819,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -62865,7 +62865,7 @@ AcDbMText
   1
 1
   7
-
+STANDARD
 210
 0
 220
@@ -62911,7 +62911,7 @@ AcDbMText
   1
 1
   7
-
+STANDARD
 210
 0
 220
@@ -62957,7 +62957,7 @@ AcDbMText
   1
 1
   7
-
+STANDARD
 210
 0
 220
@@ -63003,7 +63003,7 @@ AcDbMText
   1
 1
   7
-
+STANDARD
 210
 0
 220
@@ -63049,7 +63049,7 @@ AcDbMText
   1
 c
   7
-
+STANDARD
 210
 0
 220
@@ -63095,7 +63095,7 @@ AcDbMText
   1
 c
   7
-
+STANDARD
 210
 0
 220
@@ -63141,7 +63141,7 @@ AcDbMText
   1
 c
   7
-
+STANDARD
 210
 0
 220
@@ -63187,7 +63187,7 @@ AcDbMText
   1
 c
   7
-
+STANDARD
 210
 0
 220
@@ -63233,7 +63233,7 @@ AcDbMText
   1
 c
   7
-
+STANDARD
 210
 0
 220
@@ -63319,7 +63319,7 @@ AcDbMText
   1
 -9-
   7
-
+STANDARD
 210
 0
 220
@@ -63365,7 +63365,7 @@ AcDbMText
   1
 -8-
   7
-
+STANDARD
 210
 0
 220
@@ -63411,7 +63411,7 @@ AcDbMText
   1
 -8-
   7
-
+STANDARD
 210
 0
 220
@@ -63457,7 +63457,7 @@ AcDbMText
   1
 -8-
   7
-
+STANDARD
 210
 0
 220
@@ -63503,7 +63503,7 @@ AcDbMText
   1
 7
   7
-
+STANDARD
 210
 0
 220
@@ -63549,7 +63549,7 @@ AcDbMText
   1
 7
   7
-
+STANDARD
 210
 0
 220
@@ -63595,7 +63595,7 @@ AcDbMText
   1
 d
   7
-
+STANDARD
 210
 0
 220
@@ -63641,7 +63641,7 @@ AcDbMText
   1
 e
   7
-
+STANDARD
 210
 0
 220
@@ -63687,7 +63687,7 @@ AcDbMText
   1
 d   e
   7
-
+STANDARD
 210
 0
 220
@@ -63853,7 +63853,7 @@ AcDbMText
   1
 f
   7
-
+STANDARD
 210
 0
 220
@@ -63899,7 +63899,7 @@ AcDbMText
   1
 -8-
   7
-
+STANDARD
 210
 0
 220
@@ -63945,7 +63945,7 @@ AcDbMText
   1
 -8-
   7
-
+STANDARD
 210
 0
 220
@@ -63991,7 +63991,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -64037,7 +64037,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -64083,7 +64083,7 @@ AcDbMText
   1
 110VA
   7
-
+STANDARD
 210
 0
 220
@@ -64129,7 +64129,7 @@ AcDbMText
   1
 110VA
   7
-
+STANDARD
 210
 0
 220
@@ -64175,7 +64175,7 @@ AcDbMText
   1
 f
   7
-
+STANDARD
 210
 0
 220
@@ -64221,7 +64221,7 @@ AcDbMText
   1
 f
   7
-
+STANDARD
 210
 0
 220
@@ -64267,7 +64267,7 @@ AcDbMText
   1
 7
   7
-
+STANDARD
 210
 0
 220
@@ -64313,7 +64313,7 @@ AcDbMText
   1
 7
   7
-
+STANDARD
 210
 0
 220
@@ -64519,7 +64519,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -64565,7 +64565,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -64611,7 +64611,7 @@ AcDbMText
   1
 g
   7
-
+STANDARD
 210
 0
 220
@@ -64657,7 +64657,7 @@ AcDbMText
   1
 g
   7
-
+STANDARD
 210
 0
 220
@@ -64703,7 +64703,7 @@ AcDbMText
   1
 g
   7
-
+STANDARD
 210
 0
 220
@@ -64909,7 +64909,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -64955,7 +64955,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -65001,7 +65001,7 @@ AcDbMText
   1
 h
   7
-
+STANDARD
 210
 0
 220
@@ -65167,7 +65167,7 @@ AcDbMText
   1
 -10-
   7
-
+STANDARD
 210
 0
 220
@@ -65213,7 +65213,7 @@ AcDbMText
   1
 -11-
   7
-
+STANDARD
 210
 0
 220
@@ -65259,7 +65259,7 @@ AcDbMText
   1
 -12-
   7
-
+STANDARD
 210
 0
 220
@@ -65305,7 +65305,7 @@ AcDbMText
   1
 -13-
   7
-
+STANDARD
 210
 0
 220
@@ -65351,7 +65351,7 @@ AcDbMText
   1
 14
   7
-
+STANDARD
 210
 0
 220
@@ -65397,7 +65397,7 @@ AcDbMText
   1
 14
   7
-
+STANDARD
 210
 0
 220
@@ -65443,7 +65443,7 @@ AcDbMText
   1
 14
   7
-
+STANDARD
 210
 0
 220
@@ -65489,7 +65489,7 @@ AcDbMText
   1
 14
   7
-
+STANDARD
 210
 0
 220
@@ -65535,7 +65535,7 @@ AcDbMText
   1
 14
   7
-
+STANDARD
 210
 0
 220
@@ -65581,7 +65581,7 @@ AcDbMText
   1
 14
   7
-
+STANDARD
 210
 0
 220
@@ -65627,7 +65627,7 @@ AcDbMText
   1
 i
   7
-
+STANDARD
 210
 0
 220
@@ -65673,7 +65673,7 @@ AcDbMText
   1
 i
   7
-
+STANDARD
 210
 0
 220
@@ -65719,7 +65719,7 @@ AcDbMText
   1
 j
   7
-
+STANDARD
 210
 0
 220
@@ -65765,7 +65765,7 @@ AcDbMText
   1
 j
   7
-
+STANDARD
 210
 0
 220
@@ -65811,7 +65811,7 @@ AcDbMText
   1
 j
   7
-
+STANDARD
 210
 0
 220
@@ -65857,7 +65857,7 @@ AcDbMText
   1
 j
   7
-
+STANDARD
 210
 0
 220
@@ -65943,7 +65943,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -65989,7 +65989,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -66035,7 +66035,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -66081,7 +66081,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -66127,7 +66127,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -66173,7 +66173,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -66259,7 +66259,7 @@ AcDbMText
   1
 -15-
   7
-
+STANDARD
 210
 0
 220
@@ -66305,7 +66305,7 @@ AcDbMText
   1
 i
   7
-
+STANDARD
 210
 0
 220
@@ -66351,7 +66351,7 @@ AcDbMText
   1
 -15-
   7
-
+STANDARD
 210
 0
 220
@@ -66397,7 +66397,7 @@ AcDbMText
   1
 -15-
   7
-
+STANDARD
 210
 0
 220
@@ -66443,7 +66443,7 @@ AcDbMText
   1
 -16-
   7
-
+STANDARD
 210
 0
 220
@@ -66489,7 +66489,7 @@ AcDbMText
   1
 -16-
   7
-
+STANDARD
 210
 0
 220
@@ -66535,7 +66535,7 @@ AcDbMText
   1
 j
   7
-
+STANDARD
 210
 0
 220
@@ -66581,7 +66581,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -66627,7 +66627,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -66673,7 +66673,7 @@ AcDbMText
   1
 h
   7
-
+STANDARD
 210
 0
 220
@@ -66719,7 +66719,7 @@ AcDbMText
   1
 h
   7
-
+STANDARD
 210
 0
 220
@@ -66765,7 +66765,7 @@ AcDbMText
   1
 17
   7
-
+STANDARD
 210
 0
 220
@@ -66811,7 +66811,7 @@ AcDbMText
   1
 17
   7
-
+STANDARD
 210
 0
 220
@@ -66857,7 +66857,7 @@ AcDbMText
   1
 17
   7
-
+STANDARD
 210
 0
 220
@@ -66903,7 +66903,7 @@ AcDbMText
   1
 17
   7
-
+STANDARD
 210
 0
 220
@@ -66949,7 +66949,7 @@ AcDbMText
   1
 17
   7
-
+STANDARD
 210
 0
 220
@@ -66995,7 +66995,7 @@ AcDbMText
   1
 17
   7
-
+STANDARD
 210
 0
 220
@@ -67041,7 +67041,7 @@ AcDbMText
   1
 k
   7
-
+STANDARD
 210
 0
 220
@@ -67087,7 +67087,7 @@ AcDbMText
   1
 k
   7
-
+STANDARD
 210
 0
 220
@@ -67133,7 +67133,7 @@ AcDbMText
   1
 k
   7
-
+STANDARD
 210
 0
 220
@@ -67179,7 +67179,7 @@ AcDbMText
   1
 -18-
   7
-
+STANDARD
 210
 0
 220
@@ -67225,7 +67225,7 @@ AcDbMText
   1
 -18-
   7
-
+STANDARD
 210
 0
 220
@@ -67271,7 +67271,7 @@ AcDbMText
   1
 -18-
   7
-
+STANDARD
 210
 0
 220
@@ -67317,7 +67317,7 @@ AcDbMText
   1
 -18-
   7
-
+STANDARD
 210
 0
 220
@@ -67363,7 +67363,7 @@ AcDbMText
   1
 -18-
   7
-
+STANDARD
 210
 0
 220
@@ -67409,7 +67409,7 @@ AcDbMText
   1
 -18-
   7
-
+STANDARD
 210
 0
 220
@@ -67455,7 +67455,7 @@ AcDbMText
   1
 -19-
   7
-
+STANDARD
 210
 0
 220
@@ -67501,7 +67501,7 @@ AcDbMText
   1
 l
   7
-
+STANDARD
 210
 0
 220
@@ -67547,7 +67547,7 @@ AcDbMText
   1
 l
   7
-
+STANDARD
 210
 0
 220
@@ -67593,7 +67593,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -67639,7 +67639,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -67685,7 +67685,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -67731,7 +67731,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -67777,7 +67777,7 @@ AcDbMText
   1
 l
   7
-
+STANDARD
 210
 0
 220
@@ -67823,7 +67823,7 @@ AcDbMText
   1
 l
   7
-
+STANDARD
 210
 0
 220
@@ -67869,7 +67869,7 @@ AcDbMText
   1
 l
   7
-
+STANDARD
 210
 0
 220
@@ -67915,7 +67915,7 @@ AcDbMText
   1
 l
   7
-
+STANDARD
 210
 0
 220
@@ -67961,7 +67961,7 @@ AcDbMText
   1
 20
   7
-
+STANDARD
 210
 0
 220
@@ -68007,7 +68007,7 @@ AcDbMText
   1
 20
   7
-
+STANDARD
 210
 0
 220
@@ -68053,7 +68053,7 @@ AcDbMText
   1
 20
   7
-
+STANDARD
 210
 0
 220
@@ -68099,7 +68099,7 @@ AcDbMText
   1
 20
   7
-
+STANDARD
 210
 0
 220
@@ -68145,7 +68145,7 @@ AcDbMText
   1
 -21-
   7
-
+STANDARD
 210
 0
 220
@@ -68191,7 +68191,7 @@ AcDbMText
   1
 -21-
   7
-
+STANDARD
 210
 0
 220
@@ -68237,7 +68237,7 @@ AcDbMText
   1
 -21-
   7
-
+STANDARD
 210
 0
 220
@@ -68283,7 +68283,7 @@ AcDbMText
   1
 225VA
   7
-
+STANDARD
 210
 0
 220
@@ -68329,7 +68329,7 @@ AcDbMText
   1
 225VA
   7
-
+STANDARD
 210
 0
 220
@@ -68375,7 +68375,7 @@ AcDbMText
   1
 225VA
   7
-
+STANDARD
 210
 0
 220
@@ -68421,7 +68421,7 @@ AcDbMText
   1
 225VA
   7
-
+STANDARD
 210
 0
 220
@@ -68467,7 +68467,7 @@ AcDbMText
   1
 m
   7
-
+STANDARD
 210
 0
 220
@@ -68513,7 +68513,7 @@ AcDbMText
   1
 m
   7
-
+STANDARD
 210
 0
 220
@@ -68559,7 +68559,7 @@ AcDbMText
   1
 m
   7
-
+STANDARD
 210
 0
 220
@@ -68605,7 +68605,7 @@ AcDbMText
   1
 m
   7
-
+STANDARD
 210
 0
 220
@@ -68651,7 +68651,7 @@ AcDbMText
   1
 22
   7
-
+STANDARD
 210
 0
 220
@@ -68697,7 +68697,7 @@ AcDbMText
   1
 22
   7
-
+STANDARD
 210
 0
 220
@@ -68743,7 +68743,7 @@ AcDbMText
   1
 22
   7
-
+STANDARD
 210
 0
 220
@@ -68789,7 +68789,7 @@ AcDbMText
   1
 22
   7
-
+STANDARD
 210
 0
 220
@@ -68835,7 +68835,7 @@ AcDbMText
   1
 m
   7
-
+STANDARD
 210
 0
 220
@@ -68881,7 +68881,7 @@ AcDbMText
   1
 -6-
   7
-
+STANDARD
 210
 0
 220
@@ -68927,7 +68927,7 @@ AcDbMText
   1
 -6-
   7
-
+STANDARD
 210
 0
 220
@@ -68973,7 +68973,7 @@ AcDbMText
   1
 -6-
   7
-
+STANDARD
 210
 0
 220
@@ -69019,7 +69019,7 @@ AcDbMText
   1
 -6-
   7
-
+STANDARD
 210
 0
 220
@@ -69065,7 +69065,7 @@ AcDbMText
   1
 -6-
   7
-
+STANDARD
 210
 0
 220
@@ -69111,7 +69111,7 @@ AcDbMText
   1
 -6-
   7
-
+STANDARD
 210
 0
 220
@@ -69157,7 +69157,7 @@ AcDbMText
   1
 -24-
   7
-
+STANDARD
 210
 0
 220
@@ -69203,7 +69203,7 @@ AcDbMText
   1
 -23-
   7
-
+STANDARD
 210
 0
 220
@@ -69249,7 +69249,7 @@ AcDbMText
   1
 -23-
   7
-
+STANDARD
 210
 0
 220
@@ -69295,7 +69295,7 @@ AcDbMText
   1
 -23-
   7
-
+STANDARD
 210
 0
 220
@@ -69341,7 +69341,7 @@ AcDbMText
   1
 -23-
   7
-
+STANDARD
 210
 0
 220
@@ -69387,7 +69387,7 @@ AcDbMText
   1
 -23-
   7
-
+STANDARD
 210
 0
 220
@@ -69673,7 +69673,7 @@ AcDbMText
   1
 n
   7
-
+STANDARD
 210
 0
 220
@@ -69719,7 +69719,7 @@ AcDbMText
   1
 n
   7
-
+STANDARD
 210
 0
 220
@@ -69765,7 +69765,7 @@ AcDbMText
   1
 n
   7
-
+STANDARD
 210
 0
 220
@@ -69811,7 +69811,7 @@ AcDbMText
   1
 n
   7
-
+STANDARD
 210
 0
 220
@@ -69857,7 +69857,7 @@ AcDbMText
   1
 n
   7
-
+STANDARD
 210
 0
 220
@@ -69903,7 +69903,7 @@ AcDbMText
   1
 25
   7
-
+STANDARD
 210
 0
 220
@@ -69949,7 +69949,7 @@ AcDbMText
   1
 25
   7
-
+STANDARD
 210
 0
 220
@@ -69995,7 +69995,7 @@ AcDbMText
   1
 25
   7
-
+STANDARD
 210
 0
 220
@@ -70041,7 +70041,7 @@ AcDbMText
   1
 25
   7
-
+STANDARD
 210
 0
 220
@@ -70087,7 +70087,7 @@ AcDbMText
   1
 225VA
   7
-
+STANDARD
 210
 0
 220
@@ -70133,7 +70133,7 @@ AcDbMText
   1
 225VA
   7
-
+STANDARD
 210
 0
 220
@@ -70179,7 +70179,7 @@ AcDbMText
   1
 225VA
   7
-
+STANDARD
 210
 0
 220
@@ -70225,7 +70225,7 @@ AcDbMText
   1
 225VA
   7
-
+STANDARD
 210
 0
 220
@@ -70271,7 +70271,7 @@ AcDbMText
   1
 -26-
   7
-
+STANDARD
 210
 0
 220
@@ -70317,7 +70317,7 @@ AcDbMText
   1
 -27-
   7
-
+STANDARD
 210
 0
 220
@@ -70363,7 +70363,7 @@ AcDbMText
   1
 -27-
   7
-
+STANDARD
 210
 0
 220
@@ -70409,7 +70409,7 @@ AcDbMText
   1
 -27-
   7
-
+STANDARD
 210
 0
 220
@@ -70775,7 +70775,7 @@ AcDbMText
   1
 -27-
   7
-
+STANDARD
 210
 0
 220
@@ -70941,7 +70941,7 @@ AcDbMText
   1
 150VA
   7
-
+STANDARD
 210
 0
 220
@@ -70987,7 +70987,7 @@ AcDbMText
   1
 150VA
   7
-
+STANDARD
 210
 0
 220
@@ -71033,7 +71033,7 @@ AcDbMText
   1
 150VA
   7
-
+STANDARD
 210
 0
 220
@@ -71079,7 +71079,7 @@ AcDbMText
   1
 150VA
   7
-
+STANDARD
 210
 0
 220
@@ -71125,7 +71125,7 @@ AcDbMText
   1
 o
   7
-
+STANDARD
 210
 0
 220
@@ -71171,7 +71171,7 @@ AcDbMText
   1
 o
   7
-
+STANDARD
 210
 0
 220
@@ -71217,7 +71217,7 @@ AcDbMText
   1
 o
   7
-
+STANDARD
 210
 0
 220
@@ -71263,7 +71263,7 @@ AcDbMText
   1
 o
   7
-
+STANDARD
 210
 0
 220
@@ -71309,7 +71309,7 @@ AcDbMText
   1
 29
   7
-
+STANDARD
 210
 0
 220
@@ -71355,7 +71355,7 @@ AcDbMText
   1
 29
   7
-
+STANDARD
 210
 0
 220
@@ -71401,7 +71401,7 @@ AcDbMText
   1
 29
   7
-
+STANDARD
 210
 0
 220
@@ -71447,7 +71447,7 @@ AcDbMText
   1
 29
   7
-
+STANDARD
 210
 0
 220
@@ -71493,7 +71493,7 @@ AcDbMText
   1
 o
   7
-
+STANDARD
 210
 0
 220
@@ -71539,7 +71539,7 @@ AcDbMText
   1
 -31-
   7
-
+STANDARD
 210
 0
 220
@@ -71585,7 +71585,7 @@ AcDbMText
   1
 -31-
   7
-
+STANDARD
 210
 0
 220
@@ -71631,7 +71631,7 @@ AcDbMText
   1
 -30-
   7
-
+STANDARD
 210
 0
 220
@@ -71837,7 +71837,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -71883,7 +71883,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -71929,7 +71929,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -71975,7 +71975,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -72021,7 +72021,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -72067,7 +72067,7 @@ AcDbMText
   1
 100VA
   7
-
+STANDARD
 210
 0
 220
@@ -72113,7 +72113,7 @@ AcDbMText
   1
 p
   7
-
+STANDARD
 210
 0
 220
@@ -72159,7 +72159,7 @@ AcDbMText
   1
 p
   7
-
+STANDARD
 210
 0
 220
@@ -72205,7 +72205,7 @@ AcDbMText
   1
 p
   7
-
+STANDARD
 210
 0
 220
@@ -72251,7 +72251,7 @@ AcDbMText
   1
 p
   7
-
+STANDARD
 210
 0
 220
@@ -72297,7 +72297,7 @@ AcDbMText
   1
 p
   7
-
+STANDARD
 210
 0
 220
@@ -72343,7 +72343,7 @@ AcDbMText
   1
 p
   7
-
+STANDARD
 210
 0
 220
@@ -72389,7 +72389,7 @@ AcDbMText
   1
 p
   7
-
+STANDARD
 210
 0
 220
@@ -72435,7 +72435,7 @@ AcDbMText
   1
 -34-
   7
-
+STANDARD
 210
 0
 220
@@ -72481,7 +72481,7 @@ AcDbMText
   1
 -34-
   7
-
+STANDARD
 210
 0
 220
@@ -72527,7 +72527,7 @@ AcDbMText
   1
 -33-
   7
-
+STANDARD
 210
 0
 220
@@ -72573,7 +72573,7 @@ AcDbMText
   1
 32
   7
-
+STANDARD
 210
 0
 220
@@ -72619,7 +72619,7 @@ AcDbMText
   1
 32
   7
-
+STANDARD
 210
 0
 220
@@ -72665,7 +72665,7 @@ AcDbMText
   1
 32
   7
-
+STANDARD
 210
 0
 220
@@ -72711,7 +72711,7 @@ AcDbMText
   1
 32
   7
-
+STANDARD
 210
 0
 220
@@ -72757,7 +72757,7 @@ AcDbMText
   1
 32
   7
-
+STANDARD
 210
 0
 220
@@ -72803,7 +72803,7 @@ AcDbMText
   1
 32
   7
-
+STANDARD
 210
 0
 220
@@ -73353,54 +73353,6 @@ ByLayer
 100
 AcDbLine
  10
-5.050000000000001
- 20
-1.28
- 11
-5.640000000000001
- 21
-1.28
-  0
-LINE
-  5
-9D7
-100
-AcDbEntity
-  8
-wires
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-5.640000000000001
- 20
-1.28
- 11
-5.670000000000001
- 21
-1.31
-  0
-LINE
-  5
-9D8
-100
-AcDbEntity
-  8
-wires
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 5.670000000000001
  20
 1.31
@@ -73411,7 +73363,7 @@ AcDbLine
   0
 LINE
   5
-9D9
+9D7
 100
 AcDbEntity
   8
@@ -73435,7 +73387,7 @@ AcDbLine
   0
 LINE
   5
-9DA
+9D8
 100
 AcDbEntity
   8
@@ -73459,7 +73411,7 @@ AcDbLine
   0
 LINE
   5
-9DB
+9D9
 100
 AcDbEntity
   8
@@ -73483,7 +73435,7 @@ AcDbLine
   0
 LINE
   5
-9DC
+9DA
 100
 AcDbEntity
   8
@@ -73504,6 +73456,3298 @@ AcDbLine
 6.44
  21
 5.2
+  0
+LINE
+  5
+9DB
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.4
+ 20
+5.200000000000001
+ 11
+6.44
+ 21
+5.2
+  0
+LINE
+  5
+9DC
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.2
+ 20
+4.100000000000001
+ 11
+5.201611751052742
+ 21
+5.898218787866735
+  0
+LINE
+  5
+9DD
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5
+ 20
+6.100000000000001
+ 11
+3.9
+ 21
+6.100000000000001
+  0
+LINE
+  5
+9DE
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.9
+ 20
+6.100000000000001
+ 11
+3.850000000000001
+ 21
+6.100000000000001
+  0
+LINE
+  5
+9DF
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.850000000000001
+ 20
+6.100000000000001
+ 11
+3.850000000000001
+ 21
+6.3
+  0
+LINE
+  5
+9E0
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.850000000000001
+ 20
+6.3
+ 11
+3.899999999999999
+ 21
+6.300000000000001
+  0
+LINE
+  5
+9E1
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.85
+ 20
+6.100000000000001
+ 11
+3.85
+ 21
+5.5
+  0
+LINE
+  5
+9E2
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.85
+ 20
+5.5
+ 11
+3.9
+ 21
+5.5
+  0
+LINE
+  5
+9E3
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.101611751052741
+ 20
+4.298219087866737
+ 11
+4.7
+ 21
+4.298219087866737
+  0
+LINE
+  5
+9E4
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4.7
+ 20
+4.298219087866737
+ 11
+4.800000000000001
+ 21
+4.3
+  0
+LINE
+  5
+9E5
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4.800000000000001
+ 20
+4.3
+ 11
+5.060190394815432
+ 21
+4.039640444104045
+  0
+LINE
+  5
+9E6
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2.7
+ 20
+4.3
+ 11
+1.001611751052741
+ 21
+4.298219087866737
+  0
+LINE
+  5
+9E7
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.8016117510527411
+ 20
+4.098218787866736
+ 11
+0.8016117510527411
+ 21
+3.398219087866737
+  0
+LINE
+  5
+9E8
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2.901611751052741
+ 20
+4.098218787866736
+ 11
+2.901611751052741
+ 21
+3.398219087866737
+  0
+LINE
+  5
+9E9
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.1
+ 20
+3.2
+ 11
+3.75
+ 21
+3.2
+  0
+LINE
+  5
+9EA
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.75
+ 20
+3.2
+ 11
+3.8
+ 21
+3.2
+  0
+LINE
+  5
+9EB
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.8
+ 20
+3.2
+ 11
+3.8
+ 21
+3.4
+  0
+LINE
+  5
+9EC
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.8
+ 20
+3.4
+ 11
+3.75
+ 21
+3.4
+  0
+LINE
+  5
+9ED
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.75
+ 20
+3.4
+ 11
+3.8
+ 21
+3.4
+  0
+LINE
+  5
+9EE
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.8
+ 20
+3.4
+ 11
+3.8
+ 21
+3.7
+  0
+LINE
+  5
+9EF
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.8
+ 20
+3.7
+ 11
+3.75
+ 21
+3.7
+  0
+LINE
+  5
+9F0
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.8
+ 20
+3.2
+ 11
+3.8
+ 21
+2.7
+  0
+LINE
+  5
+9F1
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.8
+ 20
+2.7
+ 11
+3.8
+ 21
+2.65
+  0
+LINE
+  5
+9F2
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.8
+ 20
+2.65
+ 11
+1.9
+ 21
+2.65
+  0
+LINE
+  5
+9F3
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.9
+ 20
+2.65
+ 11
+1.9
+ 21
+2.7
+  0
+LINE
+  5
+9F4
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2.9
+ 20
+4.5
+ 11
+2.9
+ 21
+4.85
+  0
+LINE
+  5
+9F5
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2.9
+ 20
+4.85
+ 11
+2.9
+ 21
+4.899999999999999
+  0
+LINE
+  5
+9F6
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2.9
+ 20
+4.899999999999999
+ 11
+1.9
+ 21
+4.899999999999999
+  0
+LINE
+  5
+9F7
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.9
+ 20
+4.899999999999999
+ 11
+1.9
+ 21
+4.84999983125
+  0
+LINE
+  5
+9F8
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.9
+ 20
+4.84999983125
+ 11
+1.9
+ 21
+4.9
+  0
+LINE
+  5
+9F9
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.9
+ 20
+4.9
+ 11
+0.15
+ 21
+4.9
+  0
+LINE
+  5
+9FA
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.15
+ 20
+4.9
+ 11
+0.09999999999999999
+ 21
+4.9
+  0
+LINE
+  5
+9FB
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.09999999999999999
+ 20
+4.9
+ 11
+0.09999999999999999
+ 21
+3.774327445457204
+  0
+LINE
+  5
+9FC
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.09999999999999999
+ 20
+3.774327445457204
+ 11
+0.15
+ 21
+3.774327445457204
+  0
+LINE
+  5
+9FD
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.630600201003834
+ 20
+1.654436675811627
+ 11
+5.6
+ 21
+1.7
+  0
+LINE
+  5
+9FE
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.6
+ 20
+1.7
+ 11
+5.2
+ 21
+1.7
+  0
+LINE
+  5
+9FF
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.2
+ 20
+1.7
+ 11
+5.050000000000001
+ 21
+1.698321645294738
+  0
+LINE
+  5
+A00
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.2
+ 20
+6.300000000000001
+ 11
+5.2
+ 21
+7.500000000000004
+  0
+LINE
+  5
+A01
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.2
+ 20
+7.500000000000004
+ 11
+5.2
+ 21
+7.550000000000003
+  0
+LINE
+  5
+A02
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.2
+ 20
+7.550000000000003
+ 11
+6.100000000000001
+ 21
+7.550000000000003
+  0
+LINE
+  5
+A03
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.100000000000001
+ 20
+7.550000000000003
+ 11
+6.100000000000001
+ 21
+7.500000000000004
+  0
+LINE
+  5
+A04
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.55161175105274
+ 20
+0.6982190878667359
+ 11
+5.100000000000001
+ 21
+0.7
+  0
+ARC
+  5
+A05
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+5.050000000000001
+ 20
+0.6999999999999997
+ 40
+0.05000000000000027
+100
+AcDbArc
+ 50
+2.544443745170813e-13
+ 51
+179.9999999999997
+  0
+LINE
+  5
+A06
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5
+ 20
+0.7
+ 11
+4
+ 21
+0.7000000000000001
+  0
+LINE
+  5
+A07
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.6
+ 20
+0.7000000000000001
+ 11
+1.301611751052741
+ 21
+0.698219087866736
+  0
+LINE
+  5
+A08
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.801611751052741
+ 20
+0.898219087866736
+ 11
+3.801611751052741
+ 21
+1.798218787866736
+  0
+LINE
+  5
+A09
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.101611751052741
+ 20
+0.898219087866736
+ 11
+1.101611751052741
+ 21
+1.798218787866736
+  0
+LINE
+  5
+A0A
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.9016117510527408
+ 20
+1.998219087866736
+ 11
+0.15
+ 21
+2
+  0
+LINE
+  5
+A0B
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.15
+ 20
+2
+ 11
+0.09999999999999996
+ 21
+2
+  0
+LINE
+  5
+A0C
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.09999999999999996
+ 20
+2
+ 11
+0.09999999999999998
+ 21
+2.1
+  0
+LINE
+  5
+A0D
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.09999999999999998
+ 20
+2.1
+ 11
+0.15
+ 21
+2.1
+  0
+LINE
+  5
+A0E
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.1
+ 20
+0.5
+ 11
+1.1
+ 21
+0.09999999999999998
+  0
+LINE
+  5
+A0F
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.1
+ 20
+0.09999999999999998
+ 11
+2.549999999999999
+ 21
+0.09999999999999998
+  0
+LINE
+  5
+A10
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2.549999999999999
+ 20
+0.09999999999999998
+ 11
+2.549999999999999
+ 21
+0.1500001687500002
+  0
+LINE
+  5
+A11
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.101611751052741
+ 20
+2.198219087866736
+ 11
+1.1
+ 21
+2.6
+  0
+LINE
+  5
+A12
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.1
+ 20
+2.6
+ 11
+2.549999999999999
+ 21
+2.6
+  0
+LINE
+  5
+A13
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2.549999999999999
+ 20
+2.6
+ 11
+2.549999999999999
+ 21
+2.54999983125
+  0
+LINE
+  5
+A14
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2.549999999999999
+ 20
+2.6
+ 11
+3.3
+ 21
+2.6
+  0
+LINE
+  5
+A15
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.3
+ 20
+2.6
+ 11
+3.3
+ 21
+2.549999999999999
+  0
+LINE
+  5
+A16
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4.949999999999999
+ 20
+2.000672554542796
+ 11
+5
+ 21
+2
+  0
+LINE
+  5
+A17
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5
+ 20
+2
+ 11
+5
+ 21
+1
+  0
+LINE
+  5
+A18
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5
+ 20
+1
+ 11
+4.100000000000001
+ 21
+1
+  0
+LINE
+  5
+A19
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4.100000000000001
+ 20
+1
+ 11
+3.94303310729005
+ 21
+0.8396404441040455
+  0
+LINE
+  5
+A1A
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.500000000000001
+ 20
+1.424327445457203
+ 11
+6.55
+ 21
+1.424327445457203
+  0
+LINE
+  5
+A1B
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.4
+ 20
+2
+ 11
+6.5
+ 21
+2
+  0
+LINE
+  5
+A1C
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.5
+ 20
+2
+ 11
+6.5
+ 21
+2.2
+  0
+LINE
+  5
+A1D
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.5
+ 20
+2.2
+ 11
+6.55
+ 21
+2.2
+  0
+LINE
+  5
+A1E
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.55
+ 20
+2.2
+ 11
+6.5
+ 21
+2.2
+  0
+LINE
+  5
+A1F
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.55161175105274
+ 20
+0.6982190878667359
+ 11
+8
+ 21
+0.7
+  0
+LINE
+  5
+A20
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8
+ 20
+0.7
+ 11
+8.15
+ 21
+0.5
+  0
+LINE
+  5
+A21
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.500000000000001
+ 20
+2.2
+ 11
+6.500000000000001
+ 21
+2.7
+  0
+LINE
+  5
+A22
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.500000000000001
+ 20
+2.7
+ 11
+6.500000000000001
+ 21
+2.75
+  0
+LINE
+  5
+A23
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.4
+ 20
+2.75
+ 11
+10.4
+ 21
+2.7
+  0
+LINE
+  5
+A24
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.500000000000001
+ 20
+2.75
+ 11
+6.500000000000001
+ 21
+2.8
+  0
+LINE
+  5
+A25
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.500000000000001
+ 20
+2.8
+ 11
+8.300000000000001
+ 21
+2.8
+  0
+LINE
+  5
+A26
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.300000000000001
+ 20
+2.8
+ 11
+8.300000000000001
+ 21
+2.85
+  0
+LINE
+  5
+A27
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.300000000000001
+ 20
+2.85
+ 11
+8.300000000000001
+ 21
+2.8
+  0
+LINE
+  5
+A28
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.500000000000001
+ 20
+2.8
+ 11
+6.500000000000001
+ 21
+5.2
+  0
+LINE
+  5
+A29
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.500000000000001
+ 20
+5.2
+ 11
+6.550000000000001
+ 21
+5.2
+  0
+LINE
+  5
+A2A
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.300000000000001
+ 20
+2.8
+ 11
+10.4
+ 21
+2.8
+  0
+LINE
+  5
+A2B
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.4
+ 20
+2.8
+ 11
+10.4
+ 21
+2.75
+  0
+LINE
+  5
+A2C
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.3
+ 20
+7.000000000000001
+ 11
+10.3
+ 21
+7.350000000000001
+  0
+LINE
+  5
+A2D
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.30161175105274
+ 20
+6.598218787866736
+ 11
+10.3
+ 21
+6.000000000000001
+  0
+LINE
+  5
+A2E
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.10161175105274
+ 20
+5.798219087866736
+ 11
+8.5
+ 21
+5.800000000000001
+  0
+LINE
+  5
+A2F
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.301611751052741
+ 20
+5.998219087866736
+ 11
+8.301611751052741
+ 21
+6.598218787866736
+  0
+LINE
+  5
+A30
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.4
+ 20
+7.500000000000001
+ 11
+9.4
+ 21
+7.450000000000001
+  0
+LINE
+  5
+A31
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.4
+ 20
+7.500000000000001
+ 11
+9.4
+ 21
+7.550000000000001
+  0
+LINE
+  5
+A32
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.4
+ 20
+7.550000000000001
+ 11
+9.790000000000001
+ 21
+7.550000000000001
+  0
+LINE
+  5
+A33
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.1
+ 20
+5.800000000000001
+ 11
+11.1
+ 21
+5.500000000000001
+  0
+LINE
+  5
+A34
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.1
+ 20
+5.500000000000001
+ 11
+11.05
+ 21
+5.500672554542796
+  0
+LINE
+  5
+A35
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.1
+ 20
+5.800000000000001
+ 11
+11.1
+ 21
+6.4
+  0
+LINE
+  5
+A36
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.1
+ 20
+6.4
+ 11
+11.05
+ 21
+6.400000000000001
+  0
+LINE
+  5
+A37
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.5
+ 20
+6.800000000000001
+ 11
+10.7
+ 21
+6.600000000000001
+  0
+LINE
+  5
+A38
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.7
+ 20
+6.600000000000001
+ 11
+11.1
+ 21
+6.600000000000001
+  0
+LINE
+  5
+A39
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.1
+ 20
+6.600000000000001
+ 11
+11.1
+ 21
+6.4
+  0
+LINE
+  5
+A3A
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.1
+ 20
+5.500000000000001
+ 11
+11.1
+ 21
+5.100000000000001
+  0
+LINE
+  5
+A3B
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.1
+ 20
+5.100000000000001
+ 11
+11.1
+ 21
+5.050000000000001
+  0
+LINE
+  5
+A3C
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+11.1
+ 20
+5.050000000000001
+ 11
+9.9
+ 21
+5.050000000000001
+  0
+LINE
+  5
+A3D
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.9
+ 20
+5.050000000000001
+ 11
+9.9
+ 21
+5.100000000000001
+  0
+LINE
+  5
+A3E
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.1993274454572
+ 20
+4.95
+ 11
+10.2
+ 21
+5.000000000000001
+  0
+LINE
+  5
+A3F
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.2
+ 20
+5.000000000000001
+ 11
+9.800000000000001
+ 21
+5.000000000000001
+  0
+LINE
+  5
+A40
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.800000000000001
+ 20
+5.000000000000001
+ 11
+9.800000000000001
+ 21
+4.95
+  0
+LINE
+  5
+A41
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.800000000000001
+ 20
+4.95
+ 11
+9.600000000000001
+ 21
+4.8
+  0
+LINE
+  5
+A42
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10.3
+ 20
+3.9
+ 11
+9.5
+ 21
+3.9
+  0
+LINE
+  5
+A43
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.600000000000001
+ 20
+4.8
+ 11
+9.600000000000001
+ 21
+4.2
+  0
+LINE
+  5
+A44
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.600000000000001
+ 20
+4.2
+ 11
+9.442231427587886
+ 21
+4.040437604843794
+  0
+LINE
+  5
+A45
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.301611751052741
+ 20
+3.698219087866737
+ 11
+9.300000000000001
+ 21
+3
+  0
+LINE
+  5
+A46
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.300000000000001
+ 20
+3
+ 11
+9.300000000000001
+ 21
+2.850000000000001
+  0
+LINE
+  5
+A47
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.300000000000001
+ 20
+2.850000000000001
+ 11
+9.300000000000001
+ 21
+2.825000000000001
+  0
+LINE
+  5
+A48
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.300000000000001
+ 20
+2.825000000000001
+ 11
+9.9
+ 21
+2.825000000000001
+  0
+LINE
+  5
+A49
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.9
+ 20
+2.825000000000001
+ 11
+9.9
+ 21
+2.85
+  0
+LINE
+  5
+A4A
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.301611751052741
+ 20
+5.598219087866753
+ 11
+8.000000000000002
+ 21
+5.3
+  0
+LINE
+  5
+A4B
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.000000000000002
+ 20
+5.3
+ 11
+8.000000000000002
+ 21
+3.6
+  0
+LINE
+  5
+A4C
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.801611751052723
+ 20
+3.398219087866736
+ 11
+7.4
+ 21
+3.4
+  0
+LINE
+  5
+A4D
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.100000000000001
+ 20
+5.800000000000001
+ 11
+7.800000000000001
+ 21
+5.5
+  0
+LINE
+  5
+A4E
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.800000000000001
+ 20
+5.5
+ 11
+7.201611751052859
+ 21
+5.498219087866736
+  0
+LINE
+  5
+A4F
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.00161175105274
+ 20
+5.29821908786669
+ 11
+7.000000000000001
+ 21
+4.7
+  0
+LINE
+  5
+A50
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.801611751052625
+ 20
+5.498219087866735
+ 11
+6.500000000000001
+ 21
+5.500000000000001
+  0
+LINE
+  5
+A51
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.500000000000001
+ 20
+5.500000000000001
+ 11
+6.500000000000001
+ 21
+5.700000000000001
+  0
+LINE
+  5
+A52
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.500000000000001
+ 20
+5.700000000000001
+ 11
+6.550000000000001
+ 21
+5.699327445457204
+  0
+LINE
+  5
+A53
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.201611751052693
+ 20
+4.498219087866736
+ 11
+7.500000000000001
+ 21
+4.500000000000001
+  0
+LINE
+  5
+A54
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.500000000000001
+ 20
+4.500000000000001
+ 11
+7.500000000000001
+ 21
+4.800000000000001
+  0
+LINE
+  5
+A55
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.500000000000001
+ 20
+4.800000000000001
+ 11
+7.449999999999998
+ 21
+4.8
+  0
+LINE
+  5
+A56
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.449999999999998
+ 20
+4.8
+ 11
+7.500000000000001
+ 21
+4.800000000000001
+  0
+LINE
+  5
+A57
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.500000000000001
+ 20
+4.800000000000001
+ 11
+7.500000000000001
+ 21
+5.000000000000001
+  0
+LINE
+  5
+A58
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.500000000000001
+ 20
+5.000000000000001
+ 11
+7.449999999999998
+ 21
+5
+  0
+LINE
+  5
+A59
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.6
+ 20
+4.5
+ 11
+7.55
+ 21
+4.5
+  0
+LINE
+  5
+A5A
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.55
+ 20
+4.500000000000001
+ 11
+7.55
+ 21
+5.300000000000001
+  0
+LINE
+  5
+A5B
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.55
+ 20
+5.300000000000001
+ 11
+7.800000000000001
+ 21
+5.300000000000001
+  0
+LINE
+  5
+A5C
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.800000000000001
+ 20
+5.300000000000001
+ 11
+8.15850423723168
+ 21
+5.658504237231679
+  0
+LINE
+  5
+A5D
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.499999999999998
+ 20
+4.500672554542796
+ 11
+8.549999999999999
+ 21
+4.500672554542796
+  0
+LINE
+  5
+A5E
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.5
+ 20
+5.600000000000001
+ 11
+8.550000000000001
+ 21
+5.550000000000001
+  0
+LINE
+  5
+A5F
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.549999999999999
+ 20
+4.500672554542796
+ 11
+8.549999999999999
+ 21
+5.550000000000002
+  0
+LINE
+  5
+A60
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8.443117662537665
+ 20
+5.656882337462336
+ 11
+8.5
+ 21
+5.600000000000001
+  0
+LINE
+  5
+A61
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.201611751052742
+ 20
+3.198219087866736
+ 11
+7.200000000000001
+ 21
+3
+  0
+LINE
+  5
+A62
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.200000000000001
+ 20
+3
+ 11
+7.100000000000001
+ 21
+2.9
+  0
+LINE
+  5
+A63
+100
+AcDbEntity
+  8
+wires
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7.100000000000001
+ 20
+2.9
+ 11
+6.800000000000001
+ 21
+2.9
   0
 ENDSEC
   0
@@ -73537,7 +76781,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-9DD
+A64
 100
 AcDbPlotSettings
   6
