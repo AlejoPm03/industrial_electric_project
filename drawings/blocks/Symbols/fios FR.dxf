@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
-10000000000
+-0.1263886992532344
  20
-10000000000
+-13.02
  30
 0
   9
 $EXTMAX
  10
--10000000000
+27.2
  20
--10000000000
+11.5
  30
 0
   9
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-11.70962060791859
+5.901387882491662
  22
-6.665956314099306
+2.387498712130425
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-17.63722606663405
+6.122175380948864
  41
-1.865566037735849
+1.924205378973105
  42
 50
  43
@@ -51927,7 +51927,7 @@ AcDbMText
   1
 -XX-
   7
-STANDARD
+
 210
 0
 220
@@ -78983,7 +78983,7 @@ AcDbMText
   1
 -01-
   7
-STANDARD
+
 210
 0
 220
@@ -79069,7 +79069,7 @@ AcDbMText
   1
 -01-
   7
-STANDARD
+
 210
 0
 220
@@ -79155,7 +79155,7 @@ AcDbMText
   1
 -01-
   7
-STANDARD
+
 210
 0
 220
@@ -79337,7 +79337,7 @@ AcDbMText
   1
 -02-
   7
-STANDARD
+
 210
 0
 220
@@ -79463,7 +79463,7 @@ AcDbMText
   1
 c
   7
-STANDARD
+
 210
 0
 220
@@ -79509,7 +79509,7 @@ AcDbMText
   1
 c
   7
-STANDARD
+
 210
 0
 220
@@ -79595,7 +79595,7 @@ AcDbMText
   1
 c
   7
-STANDARD
+
 210
 0
 220
@@ -79721,7 +79721,7 @@ AcDbMText
   1
 -01-
   7
-STANDARD
+
 210
 0
 220
@@ -79767,7 +79767,7 @@ AcDbMText
   1
 -02-
   7
-STANDARD
+
 210
 0
 220
@@ -79853,7 +79853,7 @@ AcDbMText
   1
 -02-
   7
-STANDARD
+
 210
 0
 220
@@ -79939,7 +79939,7 @@ AcDbMText
   1
 -03-
   7
-STANDARD
+
 210
 0
 220
@@ -80025,7 +80025,7 @@ AcDbMText
   1
 -03-
   7
-STANDARD
+
 210
 0
 220
@@ -80111,7 +80111,7 @@ AcDbMText
   1
 -03-
   7
-STANDARD
+
 210
 0
 220
@@ -80357,7 +80357,7 @@ AcDbMText
   1
 c
   7
-STANDARD
+
 210
 0
 220
@@ -80403,7 +80403,7 @@ AcDbMText
   1
 a
   7
-STANDARD
+
 210
 0
 220
@@ -80489,7 +80489,7 @@ AcDbMText
   1
 b
   7
-STANDARD
+
 210
 0
 220
@@ -80695,7 +80695,7 @@ AcDbMText
   1
 -06-
   7
-STANDARD
+
 210
 0
 220
@@ -80741,7 +80741,7 @@ AcDbMText
   1
 -05-
   7
-STANDARD
+
 210
 0
 220
@@ -80867,7 +80867,7 @@ AcDbMText
   1
 -04-
   7
-STANDARD
+
 210
 0
 220
@@ -80913,7 +80913,7 @@ AcDbMText
   1
 -05-
   7
-STANDARD
+
 210
 0
 220
@@ -81079,7 +81079,7 @@ AcDbMText
   1
 a
   7
-STANDARD
+
 210
 0
 220
@@ -81125,7 +81125,7 @@ AcDbMText
   1
 b
   7
-STANDARD
+
 210
 0
 220
@@ -81171,7 +81171,7 @@ AcDbMText
   1
 -06-
   7
-STANDARD
+
 210
 0
 220
@@ -81217,7 +81217,7 @@ AcDbMText
   1
 -04-
   7
-STANDARD
+
 210
 0
 220
@@ -81263,7 +81263,7 @@ AcDbMText
   1
 -05-
   7
-STANDARD
+
 210
 0
 220
@@ -81309,7 +81309,7 @@ AcDbMText
   1
 -06-
   7
-STANDARD
+
 210
 0
 220
@@ -81355,7 +81355,7 @@ AcDbMText
   1
 b
   7
-STANDARD
+
 210
 0
 220
@@ -81481,7 +81481,7 @@ AcDbMText
   1
 -04-
   7
-STANDARD
+
 210
 0
 220
@@ -81527,7 +81527,7 @@ AcDbMText
   1
 -05-
   7
-STANDARD
+
 210
 0
 220
@@ -81613,7 +81613,7 @@ AcDbMText
   1
 b
   7
-STANDARD
+
 210
 0
 220
@@ -81699,7 +81699,7 @@ AcDbMText
   1
 -05-
   7
-STANDARD
+
 210
 0
 220
@@ -82021,7 +82021,7 @@ AcDbMText
   1
 -08-
   7
-STANDARD
+
 210
 0
 220
@@ -82107,7 +82107,7 @@ AcDbMText
   1
 f
   7
-STANDARD
+
 210
 0
 220
@@ -82233,7 +82233,7 @@ AcDbMText
   1
 f
   7
-STANDARD
+
 210
 0
 220
@@ -82279,7 +82279,7 @@ AcDbMText
   1
 -07-
   7
-STANDARD
+
 210
 0
 220
@@ -82469,7 +82469,7 @@ AcDbMText
   1
 -07-
   7
-STANDARD
+
 210
 0
 220
@@ -82515,7 +82515,7 @@ AcDbMText
   1
 -08-
   7
-STANDARD
+
 210
 0
 220
@@ -82561,7 +82561,7 @@ AcDbMText
   1
 -09-
   7
-STANDARD
+
 210
 0
 220
@@ -82767,7 +82767,7 @@ AcDbMText
   1
 -08-
   7
-STANDARD
+
 210
 0
 220
@@ -82813,7 +82813,7 @@ AcDbMText
   1
 d
   7
-STANDARD
+
 210
 0
 220
@@ -82899,7 +82899,7 @@ AcDbMText
   1
 e
   7
-STANDARD
+
 210
 0
 220
@@ -82945,7 +82945,7 @@ AcDbMText
   1
 e
   7
-STANDARD
+
 210
 0
 220
@@ -82991,7 +82991,7 @@ AcDbMText
   1
 -09-
   7
-STANDARD
+
 210
 0
 220
@@ -83501,7 +83501,7 @@ AcDbMText
   1
 -07-
   7
-STANDARD
+
 210
 0
 220
@@ -83547,7 +83547,7 @@ AcDbMText
   1
 -08-
   7
-STANDARD
+
 210
 0
 220
@@ -83737,7 +83737,7 @@ AcDbMText
   1
 -04-
   7
-STANDARD
+
 210
 0
 220
@@ -83783,7 +83783,7 @@ AcDbMText
   1
 -05-
   7
-STANDARD
+
 210
 0
 220
@@ -83829,7 +83829,7 @@ AcDbMText
   1
 -06-
   7
-STANDARD
+
 210
 0
 220
@@ -84139,7 +84139,7 @@ AcDbMText
   1
 -01-
   7
-STANDARD
+
 210
 0
 220
@@ -84185,7 +84185,7 @@ AcDbMText
   1
 -02-
   7
-STANDARD
+
 210
 0
 220
@@ -84231,7 +84231,7 @@ AcDbMText
   1
 -03-
   7
-STANDARD
+
 210
 0
 220
@@ -84277,7 +84277,7 @@ AcDbMText
   1
 -07-
   7
-STANDARD
+
 210
 0
 220
@@ -84323,7 +84323,7 @@ AcDbMText
   1
 -08-
   7
-STANDARD
+
 210
 0
 220
@@ -84369,7 +84369,7 @@ AcDbMText
   1
 -09-
   7
-STANDARD
+
 210
 0
 220
@@ -84495,7 +84495,7 @@ AcDbMText
   1
 -08-
   7
-STANDARD
+
 210
 0
 220
@@ -84541,7 +84541,7 @@ AcDbMText
   1
 -08-
   7
-STANDARD
+
 210
 0
 220
@@ -84627,7 +84627,7 @@ AcDbMText
   1
 -10-
   7
-STANDARD
+
 210
 0
 220
@@ -84953,7 +84953,7 @@ AcDbMText
   1
 -12-
   7
-STANDARD
+
 210
 0
 220
@@ -85039,7 +85039,7 @@ AcDbMText
   1
 -10-
   7
-STANDARD
+
 210
 0
 220
@@ -85125,7 +85125,7 @@ AcDbMText
   1
 -13-
   7
-STANDARD
+
 210
 0
 220
